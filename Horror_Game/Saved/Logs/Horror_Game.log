@@ -1715,3 +1715,85 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.03-22.34.09:566][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.03-22.34.09:566][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.03-22.34.09:566][191]AssetCheck: /Game/Blueprints/Items/DT_InventroyItemData Validating asset
+[2025.12.03-22.35.46:232][988]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.03-22.35.46:246][988]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.03-22.35.46:271][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.03-22.35.48:468][ 23]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.12.03-22.35.48:469][ 23]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.03-22.37.44:393][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2071.896729
+[2025.12.03-22.37.45:392][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-22.37.45:392][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2072.563232, Update Interval: 312.929474
+[2025.12.03-22.43.42:771][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2430.271484
+[2025.12.03-22.43.43:771][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-22.43.43:771][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2430.939697, Update Interval: 300.505402
+[2025.12.03-22.49.17:496][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2764.995117
+[2025.12.03-22.49.18:495][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-22.49.18:495][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2765.660400, Update Interval: 355.336151
+[2025.12.03-22.55.59:573][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3167.070068
+[2025.12.03-22.56.00:572][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-22.56.00:572][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3167.736816, Update Interval: 333.252960
+[2025.12.03-22.56.50:666][994]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.03-22.56.50:682][994]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.03-22.56.50:692][994]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.03-22.56.50:738][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.03-22.57.07:576][243]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_PlayerHUD
+[2025.12.03-22.57.07:585][243]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.03-22.57.36:998][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.12.03-22.57.38:544][733]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-22.57.38:582][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-22.57.38:652][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.12.03-22.57.38:656][733]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2025.12.03-22.57.38:656][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHUD]
+[2025.12.03-22.57.38:670][733]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PlayerHUD
+[2025.12.03-22.57.38:670][733]LogSavePackage: Moving '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_PlayerHUDDB5ECCED4E894BF389F7409FE3E58790.tmp' to '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_PlayerHUD.uasset'
+[2025.12.03-22.57.38:689][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.612 ms (total: 1.32 sec)
+[2025.12.03-22.57.38:749][733]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-22.57.38:749][733]LogContentValidation: Enabled validators:
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-22.57.38:749][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-22.57.38:749][733]AssetCheck: /Game/Blueprints/UI/WBP_PlayerHUD Validating asset
+[2025.12.03-22.57.38:776][733]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-22.57.48:582][914]LogContentBrowser: Attempting asset rename: WBP_PlayerHUD -> WBP_PlayerHUD
+[2025.12.03-22.57.48:740][918]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHUD.WBP_PlayerHUD
+[2025.12.03-22.57.48:741][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.03-22.57.48:777][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.12.03-22.57.48:928][918]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.03-22.57.49:850][918]LogSlate: Took 0.010021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.03-22.57.53:414][202]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-22.57.53:415][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-22.57.53:539][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.12.03-22.57.54:658][331]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.03-22.57.54:658][331]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-22.57.54:658][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-22.57.54:765][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.12.03-22.59.46:958][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.12.03-23.00.19:261][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.12.03-23.00.52:577][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.03-23.00.52:580][402]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.033
+[2025.12.03-23.00.52:598][402]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.12.03-23.00.52:601][402]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2025.12.03-23.00.52:601][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHUD]
+[2025.12.03-23.00.52:616][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_PlayerHUD_Auto3
+[2025.12.03-23.00.52:616][402]LogSavePackage: Moving '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_PlayerHUD_Auto3879DC9EA49FE39CC2F1BDDA8551F3250.tmp' to '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/Blueprints/UI/WBP_PlayerHUD_Auto3.uasset'
+[2025.12.03-23.00.52:618][402]LogFileHelpers: Auto-saving content packages took 0.038
+[2025.12.03-23.01.13:929][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.03-23.01.15:060][704]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-23.01.15:092][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.01.15:151][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.12.03-23.01.15:151][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHUD]
+[2025.12.03-23.01.15:167][704]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PlayerHUD
+[2025.12.03-23.01.15:169][704]LogSavePackage: Moving '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_PlayerHUD8A3349D44A73B518E26CA78754BFC7CA.tmp' to '../../../../../../Users/jacky/OneDrive/Documents/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_PlayerHUD.uasset'
+[2025.12.03-23.01.15:184][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.109 ms (total: 1.41 sec)
+[2025.12.03-23.01.15:248][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.01.15:248][704]LogContentValidation: Enabled validators:
+[2025.12.03-23.01.15:248][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.01.15:248][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.01.15:248][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.01.15:249][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.01.15:249][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.01.15:249][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.01.15:249][704]AssetCheck: /Game/Blueprints/UI/WBP_PlayerHUD Validating asset
