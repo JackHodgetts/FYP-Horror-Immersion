@@ -1650,3 +1650,1094 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.01.24-15.18.51:847][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.01.24-15.18.51:851][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2026.01.24-15.18.51:887][499]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.01.24-15.22.45:293][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.01.24-15.22.45:295][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.032
+[2026.01.24-15.22.45:296][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1] ([1] browsable assets)...
+[2026.01.24-15.22.45:389][351]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1.MOB1_Crouch_Idle_V2_IPC1]
+[2026.01.24-15.22.45:389][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1]
+[2026.01.24-15.22.45:419][351]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1_Auto3
+[2026.01.24-15.22.45:419][351]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/MOB1_Crouch_Idle_V2_IPC1_Auto3B058424841935B1003A5C88F84628B52.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1_Auto3.uasset'
+[2026.01.24-15.22.45:420][351]LogFileHelpers: Auto-saving content packages took 0.125
+[2026.01.24-15.24.40:225][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2117.458496
+[2026.01.24-15.24.41:225][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.24.41:225][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2118.123779, Update Interval: 310.750458
+[2026.01.24-15.30.41:605][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2478.842529
+[2026.01.24-15.30.42:605][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.30.42:605][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2479.509277, Update Interval: 300.877106
+[2026.01.24-15.36.40:993][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2838.234131
+[2026.01.24-15.36.41:995][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.36.41:995][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2838.901123, Update Interval: 309.386261
+[2026.01.24-15.42.36:049][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3193.291748
+[2026.01.24-15.42.37:048][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.42.37:048][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3193.957520, Update Interval: 353.140656
+[2026.01.24-15.44.50:485][794]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.44.50:547][794]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jacky/Downloads/Anim_Vault.FBX]
+[2026.01.24-15.44.50:792][794]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.01.24-15.44.50:819][794]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.01.24-15.45.26:008][794]LogSlate: Window 'Import Content' being destroyed
+[2026.01.24-15.45.26:067][794]LogInterchangeEngine: [Pending] Importing
+[2026.01.24-15.45.26:072][794]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.01.24-15.45.26:076][794]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.01.24-15.45.26:081][794]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.01.24-15.45.26:207][795]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.01.24-15.45.26:207][795]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.01.24-15.45.26:207][795]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.01.24-15.45.26:207][795]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.01.24-15.45.26:207][795]LogInterchangeEngine: [Success] Import Canceled
+[2026.01.24-15.45.53:940][654]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.45.53:996][654]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jacky/Downloads/Anim_Vault.FBX]
+[2026.01.24-15.45.54:156][654]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.01.24-15.45.54:184][654]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.01.24-15.46.43:652][654]LogSlate: Window 'Import Content' being destroyed
+[2026.01.24-15.46.43:700][654]LogInterchangeEngine: [Pending] Importing
+[2026.01.24-15.46.44:105][657]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.46.44:342][659]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Vault.Anim_Vault (Required Memory Estimate: 0.81 MB)
+[2026.01.24-15.46.44:366][659]LogAnimationCompression: Display: Storing compressed animation data for /Game/MCO_Mocap_Basics/Animation/Anim_Vault.Anim_Vault, at AnimationSequence/21f6f7dbb5bda52c3f04c711311ff09dbdad7726
+[2026.01.24-15.46.44:484][659]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jacky/Downloads/Anim_Vault.FBX]
+[2026.01.24-15.46.44:484][659]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.01.24-15.46.44:484][659]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.01.24-15.46.44:484][659]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jacky/Downloads/Anim_JumpingDownFromWall.FBX]
+[2026.01.24-15.46.44:952][673]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.46.45:146][675]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall.Anim_JumpingDownFromWall (Required Memory Estimate: 1.49 MB)
+[2026.01.24-15.46.45:195][675]LogAnimationCompression: Display: Storing compressed animation data for /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall.Anim_JumpingDownFromWall, at AnimationSequence/c36875b42715b3a8eafe1d05f259b32187294612
+[2026.01.24-15.46.45:288][676]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jacky/Downloads/Anim_JumpingDownFromWall.FBX]
+[2026.01.24-15.46.45:288][676]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.01.24-15.46.45:288][676]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.01.24-15.46.45:288][676]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jacky/Downloads/Anim_Climb.FBX]
+[2026.01.24-15.46.45:656][689]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.46.45:843][691]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb (Required Memory Estimate: 0.79 MB)
+[2026.01.24-15.46.45:868][691]LogAnimationCompression: Display: Storing compressed animation data for /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb, at AnimationSequence/75ce31db536b1df8b71dff833e7b28eb928035af
+[2026.01.24-15.46.45:945][691]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jacky/Downloads/Anim_Climb.FBX]
+[2026.01.24-15.46.45:945][691]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.01.24-15.46.45:945][691]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.01.24-15.46.45:945][691]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jacky/Downloads/Anim_GettingUp.FBX]
+[2026.01.24-15.46.46:343][699]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-15.46.46:532][701]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp.Anim_GettingUp (Required Memory Estimate: 0.74 MB)
+[2026.01.24-15.46.46:559][701]LogAnimationCompression: Display: Storing compressed animation data for /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp.Anim_GettingUp, at AnimationSequence/53acb5e7ab07b063d6a497426a61575116ce8197
+[2026.01.24-15.46.46:635][701]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jacky/Downloads/Anim_GettingUp.FBX]
+[2026.01.24-15.46.46:732][701]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.24-15.46.46:732][701]LogInterchangeEngine: [Success] Import Done
+[2026.01.24-15.46.48:468][783]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb
+[2026.01.24-15.46.48:468][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.01.24-15.46.48:476][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.46.48:873][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.01.24-15.46.49:600][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.01.24-15.47.03:516][645]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1.MOB1_CrouchWalk_F_IPC1
+[2026.01.24-15.47.03:552][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.47.03:603][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.01.24-15.47.03:635][645]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.03:635][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.03:765][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.01.24-15.47.08:164][915]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.08:164][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.08:176][915]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.08:176][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.08:229][915]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.08:229][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.08:271][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.01.24-15.47.14:011][173]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb
+[2026.01.24-15.47.14:011][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.01.24-15.47.14:019][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.47.14:402][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.01.24-15.47.15:080][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.01.24-15.47.29:814][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-15.47.29:905][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb] ([1] browsable assets)...
+[2026.01.24-15.47.29:916][ 69]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb]
+[2026.01.24-15.47.29:917][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb]
+[2026.01.24-15.47.29:917][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MCO_Mocap_Basics/Animation/Anim_Climb" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Climb.uasset" SILENT=true
+[2026.01.24-15.47.29:940][ 69]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_Climb
+[2026.01.24-15.47.29:940][ 69]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Climb344A0A4940A0CC7BBC3356801AFFFB02.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Climb.uasset'
+[2026.01.24-15.47.29:991][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.836 ms (total: 913.453 ms)
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: Enabled validators:
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-15.47.30:112][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-15.47.30:112][ 69]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_Climb Validating asset
+[2026.01.24-15.47.30:143][ 69]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-15.47.34:940][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.01.24-15.47.41:770][669]LogSlate: Window 'Retarget Animations' being destroyed
+[2026.01.24-15.47.55:526][511]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.55:526][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.55:538][511]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.55:538][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.55:592][511]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.47.55:592][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.47.55:654][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.24-15.49.08:472][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3585.710693
+[2026.01.24-15.49.09:471][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.49.09:471][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3586.377197, Update Interval: 309.184845
+[2026.01.24-15.51.16:059][246]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.24-15.52.56:293][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.01.24-15.54.07:435][848]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp.Anim_GettingUp
+[2026.01.24-15.54.07:436][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.01.24-15.54.07:444][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.54.07:849][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.01.24-15.54.08:570][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.01.24-15.54.14:083][163]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.54.14:083][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.54.14:093][163]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.54.14:093][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.54.14:147][163]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.54.14:147][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.54.14:237][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.24-15.54.42:292][202]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.54.42:292][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.54.42:352][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.01.24-15.55.09:746][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3946.976807
+[2026.01.24-15.55.10:745][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-15.55.10:745][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3947.643066, Update Interval: 333.567932
+[2026.01.24-15.55.28:462][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.24-15.55.28:465][708]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.039
+[2026.01.24-15.55.28:465][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault] ([1] browsable assets)...
+[2026.01.24-15.55.28:475][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Vault.Anim_Vault]
+[2026.01.24-15.55.28:475][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault]
+[2026.01.24-15.55.28:497][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Auto4
+[2026.01.24-15.55.28:497][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Vault_Auto49511EF3544E311FFEA0842A2ABC4947C.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Auto4.uasset'
+[2026.01.24-15.55.28:498][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall] ([1] browsable assets)...
+[2026.01.24-15.55.28:509][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall.Anim_JumpingDownFromWall]
+[2026.01.24-15.55.28:509][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall]
+[2026.01.24-15.55.28:530][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Auto4
+[2026.01.24-15.55.28:530][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_JumpingDownFromWall_Auto4834E29904522E759A2AD9195D7B4A2C4.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Auto4.uasset'
+[2026.01.24-15.55.28:531][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb] ([1] browsable assets)...
+[2026.01.24-15.55.28:541][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_Climb.Anim_Climb]
+[2026.01.24-15.55.28:542][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb]
+[2026.01.24-15.55.28:564][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Auto4
+[2026.01.24-15.55.28:564][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Climb_Auto4521E86BA4074BC8389728C9505AC237A.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Auto4.uasset'
+[2026.01.24-15.55.28:565][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp] ([1] browsable assets)...
+[2026.01.24-15.55.28:575][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp.Anim_GettingUp]
+[2026.01.24-15.55.28:575][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp]
+[2026.01.24-15.55.28:597][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Auto4
+[2026.01.24-15.55.28:597][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_GettingUp_Auto430C9C78F41130064778B79B9F9C5C140.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Auto4.uasset'
+[2026.01.24-15.55.28:598][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage] ([1] browsable assets)...
+[2026.01.24-15.55.28:608][708]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage.Anim_Vault_Montage]
+[2026.01.24-15.55.28:608][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage]
+[2026.01.24-15.55.28:619][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage_Auto4
+[2026.01.24-15.55.28:619][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Vault_Montage_Auto462B0E49C4539C80E02A6359D48920CC7.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage_Auto4.uasset'
+[2026.01.24-15.55.28:620][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage] ([1] browsable assets)...
+[2026.01.24-15.55.28:629][708]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage.Anim_Climb_Montage]
+[2026.01.24-15.55.28:629][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage]
+[2026.01.24-15.55.28:641][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage_Auto4
+[2026.01.24-15.55.28:641][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Climb_Montage_Auto4F21ADEE14904843EB59A8A92EF442D24.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage_Auto4.uasset'
+[2026.01.24-15.55.28:644][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage] ([1] browsable assets)...
+[2026.01.24-15.55.28:653][708]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage.Anim_GettingUp_Montage]
+[2026.01.24-15.55.28:653][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage]
+[2026.01.24-15.55.28:664][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage_Auto4
+[2026.01.24-15.55.28:664][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_GettingUp_Montage_Auto4CA2523A148EFDF5F812023898461878D.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage_Auto4.uasset'
+[2026.01.24-15.55.28:666][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage] ([1] browsable assets)...
+[2026.01.24-15.55.28:675][708]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage.Anim_JumpingDownFromWall_Montage]
+[2026.01.24-15.55.28:675][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage]
+[2026.01.24-15.55.28:685][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage_Auto4
+[2026.01.24-15.55.28:685][708]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_JumpingDownFromWall_Montage24F295054A2395E18F8AAC9B05727C52.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage_Auto4.uasset'
+[2026.01.24-15.55.28:687][708]LogFileHelpers: Auto-saving content packages took 0.221
+[2026.01.24-15.55.44:874][914]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.01.24-15.55.47:945][ 63]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage.Anim_JumpingDownFromWall_Montage
+[2026.01.24-15.55.47:946][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.01.24-15.55.47:956][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.55.48:340][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.01.24-15.56.24:544][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-15.56.24:632][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage] ([1] browsable assets)...
+[2026.01.24-15.56.24:641][182]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage.Anim_JumpingDownFromWall_Montage]
+[2026.01.24-15.56.24:643][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage]
+[2026.01.24-15.56.24:653][182]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage
+[2026.01.24-15.56.24:653][182]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_JumpingDownFromWall_MontageC666D39D418CBADE7C629E8BD03E858A.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage.uasset'
+[2026.01.24-15.56.24:722][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.152 ms (total: 1.09 sec)
+[2026.01.24-15.56.24:836][182]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-15.56.24:836][182]LogContentValidation: Enabled validators:
+[2026.01.24-15.56.24:836][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-15.56.24:836][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-15.56.24:837][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-15.56.24:837][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-15.56.24:837][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-15.56.24:837][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-15.56.24:837][182]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall_Montage Validating asset
+[2026.01.24-15.56.24:878][182]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-15.56.25:786][239]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.56.25:786][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.56.25:845][239]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.56.25:846][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.56.25:912][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.01.24-15.56.42:636][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.24-15.56.42:644][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-15.56.42:735][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1] ([1] browsable assets)...
+[2026.01.24-15.56.42:735][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1]
+[2026.01.24-15.56.42:763][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1
+[2026.01.24-15.56.42:763][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/MOB1_CrouchWalk_F_IPC1EFDBBEDD495B8EA6FEE5978A63DA5954.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1.uasset'
+[2026.01.24-15.56.42:811][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1] ([1] browsable assets)...
+[2026.01.24-15.56.42:811][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1]
+[2026.01.24-15.56.42:843][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1
+[2026.01.24-15.56.42:843][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/MOB1_Crouch_Idle_V2_IPC13B1A74424BC9998249A067B4389AE188.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1.uasset'
+[2026.01.24-15.56.42:890][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault] ([1] browsable assets)...
+[2026.01.24-15.56.42:890][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault]
+[2026.01.24-15.56.42:891][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MCO_Mocap_Basics/Animation/Anim_Vault" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Vault.uasset" SILENT=true
+[2026.01.24-15.56.42:912][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_Vault
+[2026.01.24-15.56.42:913][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Vault01F6D8154864337ED6FCF0A2836F68AC.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Vault.uasset'
+[2026.01.24-15.56.42:960][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall] ([1] browsable assets)...
+[2026.01.24-15.56.42:960][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall]
+[2026.01.24-15.56.42:982][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall
+[2026.01.24-15.56.42:982][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_JumpingDownFromWallB3D407FE48FBDC6C0DB735BCEFAFFA8C.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall.uasset'
+[2026.01.24-15.56.43:028][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb] ([1] browsable assets)...
+[2026.01.24-15.56.43:028][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb]
+[2026.01.24-15.56.43:028][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MCO_Mocap_Basics/Animation/Anim_Climb" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Climb.uasset" SILENT=true
+[2026.01.24-15.56.43:049][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_Climb
+[2026.01.24-15.56.43:050][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Climb316FCE26426702B30DEE7190B2E6295F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Climb.uasset'
+[2026.01.24-15.56.43:052][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp] ([1] browsable assets)...
+[2026.01.24-15.56.43:052][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp]
+[2026.01.24-15.56.43:074][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp
+[2026.01.24-15.56.43:074][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_GettingUp086DC8F143A98E17BFCA959751140EF9.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_GettingUp.uasset'
+[2026.01.24-15.56.43:120][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage] ([1] browsable assets)...
+[2026.01.24-15.56.43:120][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage]
+[2026.01.24-15.56.43:129][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage
+[2026.01.24-15.56.43:129][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Vault_Montage0210C8FB4F5BE1BEB46F56AE92FEAB8D.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Vault_Montage.uasset'
+[2026.01.24-15.56.43:178][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage] ([1] browsable assets)...
+[2026.01.24-15.56.43:178][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage]
+[2026.01.24-15.56.43:188][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage
+[2026.01.24-15.56.43:188][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_Climb_MontageB3A72566448D962584DAD3A5BD766A2A.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_Climb_Montage.uasset'
+[2026.01.24-15.56.43:234][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage] ([1] browsable assets)...
+[2026.01.24-15.56.43:234][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage]
+[2026.01.24-15.56.43:244][274]LogSavePackage: Moving output files for package: /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage
+[2026.01.24-15.56.43:244][274]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Anim_GettingUp_MontageBE14CEFD40C5D9D5312ACEAB161853EF.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage.uasset'
+[2026.01.24-15.56.43:313][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 668.233 ms (total: 1.75 sec)
+[2026.01.24-15.56.43:415][274]LogContentValidation: Display: Starting to validate 9 assets
+[2026.01.24-15.56.43:415][274]LogContentValidation: Enabled validators:
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-15.56.43:415][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-15.56.43:415][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC1 Validating asset
+[2026.01.24-15.56.43:415][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC1 Validating asset
+[2026.01.24-15.56.43:415][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_Vault Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_JumpingDownFromWall Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_Climb Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_Vault_Montage Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_Climb_Montage Validating asset
+[2026.01.24-15.56.43:416][274]AssetCheck: /Game/MCO_Mocap_Basics/Animation/Anim_GettingUp_Montage Validating asset
+[2026.01.24-15.56.43:448][274]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-15.57.36:651][122]LogEditorTransaction: Undo Move Node
+[2026.01.24-15.57.36:868][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.57.37:718][163]LogEditorTransaction: Undo Create Pin Link
+[2026.01.24-15.57.37:930][163]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.57.38:700][211]LogEditorTransaction: Undo Move Node
+[2026.01.24-15.57.38:911][211]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-15.58.04:079][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.01.24-15.58.04:606][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-15.58.04:696][643]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed] ([2] browsable assets)...
+[2026.01.24-15.58.04:704][643]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed]
+[2026.01.24-15.58.04:704][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed]
+[2026.01.24-15.58.04:782][643]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed
+[2026.01.24-15.58.04:783][643]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/ABP_Unarmed1D30EA8644C065A460DDC59100E433E5.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset'
+[2026.01.24-15.58.04:798][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.065 ms (total: 1.95 sec)
+[2026.01.24-15.58.04:912][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-15.58.04:912][643]LogContentValidation: Enabled validators:
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-15.58.04:912][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-15.58.04:912][643]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed Validating asset
+[2026.01.24-15.58.08:286][861]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-15.58.08:296][861]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-15.58.08:296][861]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-15.58.08:297][861]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.439 ms (total: 3.467 ms)
+[2026.01.24-15.58.08:298][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-15.58.08:348][861]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2026.01.24-15.58.08:350][861]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.01.24-15.58.08:378][862]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-15.58.08:388][862]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-15.58.08:390][862]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.281 ms (total: 4.039 ms)
+[2026.01.24-15.58.08:391][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012350s)
+[2026.01.24-15.58.08:391][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012402s)
+[2026.01.24-15.58.08:420][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.01.24-15.58.08:424][862]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-15.58.08:426][862]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-15.58.08:426][862]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-15.58.08:426][862]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-15.58.08:426][862]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-15.58.08:429][862]LogWorldPartition: Display: WorldPartition initialize took 1.952 ms (total: 114.660 ms)
+[2026.01.24-15.58.08:429][862]LogPlayLevel: PIE: World Init took: (0.004098s)
+[2026.01.24-15.58.08:430][862]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-15.58.08:430][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-15.58.08:430][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-15.58.08:430][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-15.58.08:430][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-15.58.08:430][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-15.58.08:432][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-15.58.08:458][862]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-15.58.08:458][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-15.58.08:458][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-15.58.08:458][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-15.58.08:459][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.01.24-15.58.08:459][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.01.24-15.58.08:461][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.01.24-15.58.08:461][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.01.24-15.58.08:461][862]LogInit: FAudioDevice initialized with ID 3.
+[2026.01.24-15.58.08:461][862]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-15.58.08:461][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.24-15.58.08:467][862]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-15.58.08:471][862]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-15.58.08
+[2026.01.24-15.58.08:471][862]LogWorld: Bringing up level for play took: 0.003432
+[2026.01.24-15.58.08:475][862]PIE: Server logged in
+[2026.01.24-15.58.08:477][862]PIE: Play in editor total start time 0.181 seconds.
+[2026.01.24-15.58.08:503][863]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-15.58.19:473][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-15.58.19:473][885]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-15.58.19:473][885]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-15.58.19:474][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.58.19:474][885]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-15.58.19:476][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-15.58.19:481][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-15.58.19:507][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.24-15.58.19:507][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.24-15.58.19:507][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.01.24-15.58.19:509][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.01.24-15.58.19:515][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-15.58.19:519][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.01.24-15.58.19:610][886]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: ================================================
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Total job queries 477, among them cache hits 37 (7.76%), DDC hits 362 (75.89%), Duplicates 69 (14.47%)
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Tracking 371 distinct input hashes that result in 267 distinct outputs (71.97%)
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: RAM used: 3.47 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Shaders Compiled: 9
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Average time worker was idle: 2331.66 s
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Job execution time: average 1.97 s, max 2.40 s
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 2.44
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Shader code size: total 92.23 KiB, numShaders 9, average 10.247 KiB, min 6.402 KiB, max 13.699 KiB
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.04 s
+[2026.01.24-15.58.44:182][460]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Average processing rate: 1.28 jobs/sec
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Total thread time: 14.025 s
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Total thread preprocess time: 9.896 s
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Percentage time preprocessing: 70.56%
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Effective parallelization: 1.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.248882
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.10 sec, max 2.12 sec, min 2.09 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.89 sec, max 2.00 sec, min 1.72 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.15 sec, max 1.22 sec, min 1.05 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 40.35% of total time (compiled    3 times, average 1.89 sec, max 2.00 sec, min 1.72 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 29.97% of total time (compiled    2 times, average 2.10 sec, max 2.12 sec, min 2.09 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.69% of total time (compiled    3 times, average 1.15 sec, max 1.22 sec, min 1.05 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.98% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: === Material stats ===
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Materials Translated:    146
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2026.01.24-15.58.44:183][460]LogShaderCompilers: Display: ================================================
+[2026.01.24-15.59.46:036][146]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.01.24-15.59.46:055][146]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.01.24-15.59.46:080][147]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.01.24-15.59.51:534][564]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Parkour
+[2026.01.24-15.59.51:541][564]LogContentBrowser: End creating deferred item NewInputAction
+[2026.01.24-16.00.28:753][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.00.28:831][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.01.24-16.00.28:831][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.01.24-16.00.28:831][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.01.24-16.00.28:844][533]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.01.24-16.00.28:846][533]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/IMC_Default9D3FBB854DBE76C11EC3C68482079AFC.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/IMC_Default.uasset'
+[2026.01.24-16.00.28:863][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.965 ms (total: 2.06 sec)
+[2026.01.24-16.00.28:974][533]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.00.28:974][533]LogContentValidation: Enabled validators:
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.00.28:974][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.00.28:975][533]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.01.24-16.00.47:863][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.24-16.00.48:878][ 85]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-16.00.48:907][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.00.48:994][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Parkour] ([1] browsable assets)...
+[2026.01.24-16.00.48:994][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Parkour]
+[2026.01.24-16.00.48:994][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Parkour" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/Actions/IA_Parkour.uasset" SILENT=true
+[2026.01.24-16.00.49:011][ 85]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Parkour
+[2026.01.24-16.00.49:011][ 85]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/IA_ParkourA989108E40ADCC7CE3BAEDA8FB6DB1BC.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/Actions/IA_Parkour.uasset'
+[2026.01.24-16.00.49:036][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.834 ms (total: 2.19 sec)
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: Enabled validators:
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.00.49:141][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.00.49:141][ 85]AssetCheck: /Game/Input/Actions/IA_Parkour Validating asset
+[2026.01.24-16.00.49:174][ 85]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-16.01.14:600][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4311.838379
+[2026.01.24-16.01.15:600][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.01.15:600][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4312.504883, Update Interval: 310.796234
+[2026.01.24-16.03.51:654][620]LogSlate: Took 0.010977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.24-16.04.11:527][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.01.24-16.05.01:965][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.01.24-16.06.29:431][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.01.24-16.07.00:681][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4657.891602
+[2026.01.24-16.07.00:867][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.07.00:867][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4658.065918, Update Interval: 340.018921
+[2026.01.24-16.09.26:762][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.01.24-16.09.26:767][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2026.01.24-16.09.26:767][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.09.26:767][886]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.01.24-16.09.26:791][886]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2026.01.24-16.09.26:799][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.09.26:799][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.09.26:852][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2026.01.24-16.09.26:852][886]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto5A601A8114917D89A9DD3EEA64A22CF6F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2026.01.24-16.09.26:855][886]LogFileHelpers: Auto-saving content packages took 0.089
+[2026.01.24-16.09.43:072][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.01.24-16.09.43:757][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.09.43:839][812]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.09.43:848][812]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.09.43:848][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.09.43:885][812]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-16.09.43:887][812]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter44120E0447BB7F0EF70CC0936F27DF15.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-16.09.43:902][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.335 ms (total: 2.33 sec)
+[2026.01.24-16.09.44:007][812]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.09.44:007][812]LogContentValidation: Enabled validators:
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.09.44:007][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.09.44:007][812]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-16.13.22:994][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5040.147949
+[2026.01.24-16.13.23:168][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.13.23:168][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5040.309082, Update Interval: 359.877319
+[2026.01.24-16.13.34:997][325]LogEditorTransaction: Undo Move Node
+[2026.01.24-16.13.35:263][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-16.13.46:345][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.01.24-16.13.47:531][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.01.24-16.13.48:745][799]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-16.13.48:774][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.13.48:862][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.13.48:884][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.13.48:884][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.13.48:926][799]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-16.13.48:927][799]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter290297DA458EF1AC31362CA750D81271.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-16.13.48:943][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.021 ms (total: 2.50 sec)
+[2026.01.24-16.13.49:046][799]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.13.49:046][799]LogContentValidation: Enabled validators:
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.13.49:046][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.13.49:046][799]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-16.16.37:562][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.24-16.16.38:033][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.16.38:111][932]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.16.38:123][932]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.16.38:123][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.16.38:168][932]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-16.16.38:169][932]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter8935EFE24EC78D4F0998AB968DBD01FD.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-16.16.38:186][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.064 ms (total: 2.65 sec)
+[2026.01.24-16.16.38:291][932]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.16.38:292][932]LogContentValidation: Enabled validators:
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.16.38:292][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.16.38:292][932]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-16.19.54:703][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5431.863281
+[2026.01.24-16.19.55:703][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.19.55:703][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5432.529297, Update Interval: 339.048431
+[2026.01.24-16.25.05:618][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2026.01.24-16.25.05:620][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.040
+[2026.01.24-16.25.05:620][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.25.05:701][108]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.25.05:702][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.25.05:748][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2026.01.24-16.25.05:749][108]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto6B4ABD030424D5CE7EE581DA49459EEAB.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2026.01.24-16.25.05:751][108]LogFileHelpers: Auto-saving content packages took 0.132
+[2026.01.24-16.26.23:076][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5820.249023
+[2026.01.24-16.26.24:076][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.26.24:076][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5820.915527, Update Interval: 353.711975
+[2026.01.24-16.30.04:080][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.01.24-16.33.01:844][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6219.054688
+[2026.01.24-16.33.02:004][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.33.02:004][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6219.203125, Update Interval: 307.117523
+[2026.01.24-16.35.31:944][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.01.24-16.35.32:417][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-16.35.32:484][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.35.32:494][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.35.32:494][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.35.32:554][907]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-16.35.32:556][907]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter57FAFB1C41865C34A77323AD0DA07FC3.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-16.35.32:571][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.418 ms (total: 2.81 sec)
+[2026.01.24-16.35.32:670][907]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-16.35.32:670][907]LogContentValidation: Enabled validators:
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-16.35.32:670][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-16.35.32:670][907]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-16.36.44:787][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.01.24-16.36.44:789][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.01.24-16.36.44:789][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.36.44:881][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.36.44:881][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.36.44:934][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.01.24-16.36.44:934][358]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto73247DB2D408937B2FA5D17B28C2C6509.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.01.24-16.36.44:936][358]LogFileHelpers: Auto-saving content packages took 0.147
+[2026.01.24-16.38.15:852][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.01.24-16.38.46:021][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6563.248535
+[2026.01.24-16.38.46:195][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.38.46:195][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6563.407715, Update Interval: 342.505554
+[2026.01.24-16.45.09:293][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6946.556641
+[2026.01.24-16.45.09:451][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.45.09:451][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6946.705078, Update Interval: 329.768372
+[2026.01.24-16.46.45:159][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.01.24-16.46.45:164][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.043
+[2026.01.24-16.46.45:165][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-16.46.45:173][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-16.46.45:173][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-16.46.45:227][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2026.01.24-16.46.45:227][878]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto8561C736C4AF56002F971ADACE285D725.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2026.01.24-16.46.45:229][878]LogFileHelpers: Auto-saving content packages took 0.065
+[2026.01.24-16.51.16:060][941]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.24-16.51.29:682][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7326.956543
+[2026.01.24-16.51.29:947][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.51.29:948][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7327.208984, Update Interval: 319.713745
+[2026.01.24-16.57.43:547][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7700.844238
+[2026.01.24-16.57.43:707][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-16.57.43:708][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7700.992188, Update Interval: 320.301514
+[2026.01.24-17.04.02:665][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8079.967285
+[2026.01.24-17.04.02:814][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.04.02:814][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8080.105469, Update Interval: 334.565887
+[2026.01.24-17.10.10:236][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8448.044922
+[2026.01.24-17.10.10:395][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.10.10:396][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8448.193359, Update Interval: 327.345795
+[2026.01.24-17.14.11:307][114]LogEditorTransaction: Undo Delete current selection
+[2026.01.24-17.14.11:586][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.14.12:771][185]LogEditorTransaction: Undo Create Reroute Node
+[2026.01.24-17.14.13:040][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.16.10:801][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8808.594727
+[2026.01.24-17.16.10:975][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.16.10:975][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8808.755859, Update Interval: 335.140839
+[2026.01.24-17.17.53:932][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.24-17.17.54:697][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.17.54:784][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.17.54:794][183]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.17.54:794][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.17.54:855][183]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-17.17.54:857][183]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter26B766A04C388B5E60F191998C104887.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-17.17.54:872][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.166 ms (total: 2.98 sec)
+[2026.01.24-17.17.54:973][183]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.17.54:973][183]LogContentValidation: Enabled validators:
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.17.54:973][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.17.54:973][183]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-17.18.09:751][681]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.24-17.18.09:774][681]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.24-17.18.10:809][735]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.24-17.19.10:474][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.01.24-17.19.10:498][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto9
+[2026.01.24-17.19.10:498][281]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Lvl_ThirdPerson_Auto966204C734DE94CF8FFDBD4931F3A16F4.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto9.umap'
+[2026.01.24-17.19.10:501][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.062
+[2026.01.24-17.19.10:501][281]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2026.01.24-17.19.10:740][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-17.19.10:755][293]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-17.19.10:755][293]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-17.19.10:758][293]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.022 ms (total: 6.490 ms)
+[2026.01.24-17.19.10:758][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-17.19.10:787][293]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2026.01.24-17.19.10:791][293]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.01.24-17.19.10:821][294]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.19.10:833][294]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-17.19.10:835][294]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.167 ms (total: 6.206 ms)
+[2026.01.24-17.19.10:835][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013420s)
+[2026.01.24-17.19.10:835][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013557s)
+[2026.01.24-17.19.10:863][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.01.24-17.19.10:866][294]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-17.19.10:869][294]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-17.19.10:869][294]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-17.19.10:869][294]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-17.19.10:869][294]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-17.19.10:871][294]LogWorldPartition: Display: WorldPartition initialize took 2.354 ms (total: 117.014 ms)
+[2026.01.24-17.19.10:871][294]LogPlayLevel: PIE: World Init took: (0.005322s)
+[2026.01.24-17.19.10:873][294]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-17.19.10:873][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-17.19.10:873][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-17.19.10:873][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-17.19.10:873][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-17.19.10:873][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-17.19.10:875][294]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-17.19.10:903][294]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-17.19.10:903][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-17.19.10:903][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-17.19.10:903][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-17.19.10:905][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.01.24-17.19.10:905][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.01.24-17.19.10:907][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.01.24-17.19.10:907][294]LogInit: FAudioDevice initialized with ID 4.
+[2026.01.24-17.19.10:907][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.01.24-17.19.10:907][294]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-17.19.10:907][294]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.24-17.19.10:924][294]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-17.19.10:928][294]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-17.19.10
+[2026.01.24-17.19.10:929][294]LogWorld: Bringing up level for play took: 0.004259
+[2026.01.24-17.19.10:934][294]PIE: Server logged in
+[2026.01.24-17.19.10:936][294]PIE: Play in editor total start time 0.182 seconds.
+[2026.01.24-17.19.10:962][295]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-17.19.29:572][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.19.29:572][920]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.19.29:572][920]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-17.19.29:574][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.19.29:574][920]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-17.19.29:576][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-17.19.29:581][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.19.29:612][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.19.29:612][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.24-17.19.29:613][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.01.24-17.19.29:614][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.01.24-17.19.29:622][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.01.24-17.19.29:745][921]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.01.24-17.19.37:914][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-17.19.37:925][403]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-17.19.37:925][403]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-17.19.37:927][403]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.841 ms (total: 8.332 ms)
+[2026.01.24-17.19.37:928][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-17.19.37:951][403]LogPlayLevel: Display: Creating online subsystem for client :Context_50
+[2026.01.24-17.19.37:955][403]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.01.24-17.19.37:981][404]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.19.37:990][404]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-17.19.37:992][404]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.740 ms (total: 7.946 ms)
+[2026.01.24-17.19.37:992][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011172s)
+[2026.01.24-17.19.37:992][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011279s)
+[2026.01.24-17.19.38:023][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.24-17.19.38:025][404]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-17.19.38:026][404]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-17.19.38:027][404]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-17.19.38:027][404]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-17.19.38:027][404]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-17.19.38:029][404]LogWorldPartition: Display: WorldPartition initialize took 2.296 ms (total: 119.311 ms)
+[2026.01.24-17.19.38:029][404]LogPlayLevel: PIE: World Init took: (0.004335s)
+[2026.01.24-17.19.38:030][404]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-17.19.38:030][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-17.19.38:030][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-17.19.38:030][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-17.19.38:030][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-17.19.38:030][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-17.19.38:033][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-17.19.38:057][404]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-17.19.38:057][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-17.19.38:057][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-17.19.38:057][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-17.19.38:058][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.24-17.19.38:058][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.24-17.19.38:061][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.24-17.19.38:061][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.24-17.19.38:061][404]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.24-17.19.38:061][404]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-17.19.38:061][404]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.24-17.19.38:065][404]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-17.19.38:069][404]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-17.19.38
+[2026.01.24-17.19.38:069][404]LogWorld: Bringing up level for play took: 0.003451
+[2026.01.24-17.19.38:074][404]PIE: Server logged in
+[2026.01.24-17.19.38:076][404]PIE: Play in editor total start time 0.151 seconds.
+[2026.01.24-17.19.38:101][405]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-17.19.49:950][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.19.49:950][458]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.19.49:950][458]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-17.19.49:952][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.19.49:952][458]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-17.19.49:954][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-17.19.49:959][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.19.49:991][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.19.49:991][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.24-17.19.49:991][458]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.24-17.19.49:993][458]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.24-17.19.50:001][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.01.24-17.19.50:124][459]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.01.24-17.22.28:450][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9186.266602
+[2026.01.24-17.22.28:610][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.22.28:610][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9186.414062, Update Interval: 328.935211
+[2026.01.24-17.28.27:626][921]LogEditorTransaction: Undo Change Bool Pin Value
+[2026.01.24-17.28.27:967][921]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.28.28:577][945]LogEditorTransaction: Undo Create Pin Link
+[2026.01.24-17.28.28:905][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.28.52:264][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9570.076172
+[2026.01.24-17.28.52:442][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.28.52:442][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9570.240234, Update Interval: 356.270020
+[2026.01.24-17.29.10:662][898]LogEditorTransaction: Undo Move Node
+[2026.01.24-17.29.11:012][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.29.55:177][146]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::MakeVector' [Element not found.]
+[2026.01.24-17.29.59:413][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.29.59:521][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.29.59:528][417]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.29.59:529][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.29.59:640][417]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-17.29.59:641][417]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacterB1AC83C543BFB6B441504590CBD90258.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-17.29.59:673][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.609 ms (total: 3.24 sec)
+[2026.01.24-17.29.59:766][417]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.29.59:766][417]LogContentValidation: Enabled validators:
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.29.59:766][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.29.59:766][417]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-17.30.02:686][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.01.24-17.30.03:335][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.30.03:429][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.30.03:441][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.30.03:441][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.30.03:509][635]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-17.30.03:510][635]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter2789C7D2404DE4143B93D0BB461A337B.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-17.30.03:529][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.697 ms (total: 3.44 sec)
+[2026.01.24-17.30.03:630][635]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.30.03:630][635]LogContentValidation: Enabled validators:
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.30.03:630][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.30.03:630][635]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-17.30.42:592][745]LogEditorTransaction: Undo Move Node
+[2026.01.24-17.30.42:942][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.32.36:059][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.01.24-17.32.36:083][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto0
+[2026.01.24-17.32.36:083][874]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Lvl_ThirdPerson_Auto062CA25D6459BDCDDCBA71CB33C0BE965.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto0.umap'
+[2026.01.24-17.32.36:086][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.058
+[2026.01.24-17.32.36:086][874]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.01.24-17.32.36:086][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.32.36:171][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.32.36:171][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.32.36:241][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2026.01.24-17.32.36:241][874]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto0FC0241C047C89DD5227689BCC66EBE67.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2026.01.24-17.32.36:243][874]LogFileHelpers: Auto-saving content packages took 0.156
+[2026.01.24-17.33.15:917][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.01.24-17.33.16:801][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.33.16:890][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.33.16:901][538]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.33.16:901][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.33.16:973][538]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-17.33.16:974][538]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter1820042B4ABDCAE812460282599BFC2F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-17.33.16:997][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.341 ms (total: 3.63 sec)
+[2026.01.24-17.33.17:103][538]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.33.17:103][538]LogContentValidation: Enabled validators:
+[2026.01.24-17.33.17:103][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.33.17:103][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.33.17:103][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.33.17:103][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.33.17:104][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.33.17:104][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.33.17:104][538]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-17.33.24:037][754]Cmd: EDIT COPY
+[2026.01.24-17.33.24:201][761]Cmd: EDIT PASTE
+[2026.01.24-17.33.36:418][420]Cmd: TRANSACTION UNDO
+[2026.01.24-17.33.36:418][420]LogEditorTransaction: Undo Move Elements
+[2026.01.24-17.33.36:858][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.33.51:321][195]Cmd: EDIT COPY
+[2026.01.24-17.33.51:475][201]Cmd: EDIT PASTE
+[2026.01.24-17.34.35:846][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.01.24-17.34.36:979][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.34.37:054][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-17.34.37:067][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.24-17.34.37:067][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-17.34.37:144][837]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-17.34.37:145][837]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter212DBEC94C284D9F23AF2282007E9332.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-17.34.37:168][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.753 ms (total: 3.82 sec)
+[2026.01.24-17.34.37:282][837]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.34.37:282][837]LogContentValidation: Enabled validators:
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.34.37:282][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.34.37:282][837]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-17.34.47:270][283]Cmd: EDIT COPY
+[2026.01.24-17.34.47:442][289]Cmd: EDIT PASTE
+[2026.01.24-17.35.00:408][938]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-17.35.00:417][938]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-17.35.00:417][938]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-17.35.00:418][938]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.106 ms (total: 9.438 ms)
+[2026.01.24-17.35.00:418][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-17.35.00:418][938]LogPlayLevel: Display: Creating online subsystem for client :Context_51
+[2026.01.24-17.35.00:421][938]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.01.24-17.35.00:450][939]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.35.00:462][939]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-17.35.00:464][939]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.924 ms (total: 9.871 ms)
+[2026.01.24-17.35.00:464][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013510s)
+[2026.01.24-17.35.00:464][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013576s)
+[2026.01.24-17.35.00:496][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.24-17.35.00:501][939]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-17.35.00:503][939]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-17.35.00:503][939]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-17.35.00:503][939]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-17.35.00:503][939]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-17.35.00:505][939]LogWorldPartition: Display: WorldPartition initialize took 2.353 ms (total: 121.664 ms)
+[2026.01.24-17.35.00:505][939]LogPlayLevel: PIE: World Init took: (0.004595s)
+[2026.01.24-17.35.00:506][939]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.24-17.35.00:506][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-17.35.00:506][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-17.35.00:506][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-17.35.00:506][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-17.35.00:506][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-17.35.00:507][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-17.35.00:507][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-17.35.00:507][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-17.35.00:507][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-17.35.00:507][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-17.35.00:507][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-17.35.00:509][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-17.35.00:536][939]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-17.35.00:536][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-17.35.00:536][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-17.35.00:536][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-17.35.00:536][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.24-17.35.00:537][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.24-17.35.00:539][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.24-17.35.00:539][939]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.24-17.35.00:539][939]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-17.35.00:539][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.24-17.35.00:539][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.24-17.35.00:546][939]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-17.35.00:550][939]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-17.35.00
+[2026.01.24-17.35.00:550][939]LogWorld: Bringing up level for play took: 0.004095
+[2026.01.24-17.35.00:554][939]PIE: Server logged in
+[2026.01.24-17.35.00:557][939]PIE: Play in editor total start time 0.14 seconds.
+[2026.01.24-17.35.00:586][940]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-17.35.21:493][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.35.21:493][649]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.35.21:493][649]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-17.35.21:494][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.35.21:494][649]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-17.35.21:496][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-17.35.21:502][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.35.21:533][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.24-17.35.21:533][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.24-17.35.21:533][649]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.24-17.35.21:535][649]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.24-17.35.21:539][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.35.21:544][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.01.24-17.35.21:675][650]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.01.24-17.35.24:403][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.35.24:587][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.24-17.35.24:606][794]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.01.24-17.35.24:607][794]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Lvl_ThirdPersonE32EF2BC40007E20E4F62ABD48284048.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.01.24-17.35.24:620][794]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.103
+[2026.01.24-17.35.24:640][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.285 ms (total: 4.06 sec)
+[2026.01.24-17.35.24:749][794]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.35.24:749][794]LogContentValidation: Enabled validators:
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.35.24:749][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.35.24:749][794]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.01.24-17.35.24:789][794]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-17.35.33:435][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9971.226562
+[2026.01.24-17.35.34:436][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.35.34:436][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9971.894531, Update Interval: 339.326752
+[2026.01.24-17.35.40:040][  7]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-17.35.40:052][  7]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-17.35.40:053][  7]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-17.35.40:054][  7]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.741 ms (total: 11.180 ms)
+[2026.01.24-17.35.40:055][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-17.35.40:093][  7]LogPlayLevel: Display: Creating online subsystem for client :Context_52
+[2026.01.24-17.35.40:095][  7]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.01.24-17.35.40:122][  8]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.35.40:132][  8]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-17.35.40:134][  8]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.964 ms (total: 11.835 ms)
+[2026.01.24-17.35.40:135][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012574s)
+[2026.01.24-17.35.40:135][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012634s)
+[2026.01.24-17.35.40:168][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.01.24-17.35.40:172][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-17.35.40:173][  8]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-17.35.40:173][  8]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-17.35.40:173][  8]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-17.35.40:173][  8]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-17.35.40:176][  8]LogWorldPartition: Display: WorldPartition initialize took 2.767 ms (total: 124.431 ms)
+[2026.01.24-17.35.40:176][  8]LogPlayLevel: PIE: World Init took: (0.005111s)
+[2026.01.24-17.35.40:177][  8]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.24-17.35.40:177][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-17.35.40:177][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-17.35.40:178][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-17.35.40:178][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-17.35.40:178][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-17.35.40:178][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-17.35.40:178][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-17.35.40:178][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-17.35.40:178][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-17.35.40:178][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-17.35.40:178][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-17.35.40:180][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-17.35.40:206][  8]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-17.35.40:207][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-17.35.40:207][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-17.35.40:207][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-17.35.40:207][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.24-17.35.40:207][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.01.24-17.35.40:210][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.24-17.35.40:210][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.24-17.35.40:210][  8]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.24-17.35.40:210][  8]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-17.35.40:211][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.24-17.35.40:215][  8]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-17.35.40:220][  8]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-17.35.40
+[2026.01.24-17.35.40:220][  8]LogWorld: Bringing up level for play took: 0.003935
+[2026.01.24-17.35.40:225][  8]PIE: Server logged in
+[2026.01.24-17.35.40:227][  8]PIE: Play in editor total start time 0.175 seconds.
+[2026.01.24-17.35.40:253][  9]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-17.35.53:645][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.35.53:645][ 92]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.35.53:645][ 92]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-17.35.53:646][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.35.53:646][ 92]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-17.35.53:647][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-17.35.53:653][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.35.53:682][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.35.53:682][ 92]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.24-17.35.53:682][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.24-17.35.53:683][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.24-17.35.53:693][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.01.24-17.35.53:823][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.01.24-17.36.03:429][589]Cmd: TRANSACTION UNDO
+[2026.01.24-17.36.03:429][589]LogEditorTransaction: Undo Move Elements
+[2026.01.24-17.36.03:836][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.36.04:435][614]Cmd: TRANSACTION UNDO
+[2026.01.24-17.36.04:435][614]LogEditorTransaction: Undo Scale Elements
+[2026.01.24-17.36.04:910][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-17.36.11:667][983]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-17.36.11:677][983]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.24-17.36.11:678][983]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.01.24-17.36.11:679][983]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.658 ms (total: 12.838 ms)
+[2026.01.24-17.36.11:679][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-17.36.11:680][983]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2026.01.24-17.36.11:682][983]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.01.24-17.36.11:711][984]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.36.11:721][984]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.24-17.36.11:723][984]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.150 ms (total: 13.986 ms)
+[2026.01.24-17.36.11:724][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012162s)
+[2026.01.24-17.36.11:724][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012214s)
+[2026.01.24-17.36.11:751][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.01.24-17.36.11:753][984]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.01.24-17.36.11:755][984]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.24-17.36.11:755][984]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.24-17.36.11:755][984]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.24-17.36.11:755][984]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.24-17.36.11:758][984]LogWorldPartition: Display: WorldPartition initialize took 2.223 ms (total: 126.654 ms)
+[2026.01.24-17.36.11:758][984]LogPlayLevel: PIE: World Init took: (0.004238s)
+[2026.01.24-17.36.11:759][984]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-17.36.11:759][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-17.36.11:759][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-17.36.11:759][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-17.36.11:760][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-17.36.11:760][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-17.36.11:762][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-17.36.11:787][984]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.24-17.36.11:787][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-17.36.11:787][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-17.36.11:787][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-17.36.11:787][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.01.24-17.36.11:787][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.01.24-17.36.11:790][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.01.24-17.36.11:790][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.01.24-17.36.11:790][984]LogInit: FAudioDevice initialized with ID 8.
+[2026.01.24-17.36.11:790][984]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.01.24-17.36.11:790][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.24-17.36.11:795][984]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.24-17.36.11:799][984]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.01.24-17.36.11
+[2026.01.24-17.36.11:799][984]LogWorld: Bringing up level for play took: 0.003921
+[2026.01.24-17.36.11:804][984]PIE: Server logged in
+[2026.01.24-17.36.11:806][984]PIE: Play in editor total start time 0.129 seconds.
+[2026.01.24-17.36.11:835][985]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.24-17.36.27:524][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.36.27:524][275]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.01.24-17.36.27:524][275]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-17.36.27:525][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.36.27:525][275]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.24-17.36.27:527][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-17.36.27:532][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-17.36.27:562][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-17.36.27:562][275]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.24-17.36.27:562][275]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.01.24-17.36.27:564][275]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.01.24-17.36.27:572][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.01.24-17.36.27:700][276]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.01.24-17.36.56:330][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.01.24-17.36.58:002][422]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-17.36.58:042][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-17.36.58:203][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.24-17.36.58:221][422]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.01.24-17.36.58:222][422]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Lvl_ThirdPerson8A2924004156E88FA93AF6894E7E2BF2.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.01.24-17.36.58:238][422]LogFileHelpers: All files are already saved.
+[2026.01.24-17.36.58:239][422]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.101
+[2026.01.24-17.36.58:261][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.973 ms (total: 4.28 sec)
+[2026.01.24-17.36.58:350][422]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-17.36.58:350][422]LogContentValidation: Enabled validators:
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-17.36.58:350][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-17.36.58:350][422]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
