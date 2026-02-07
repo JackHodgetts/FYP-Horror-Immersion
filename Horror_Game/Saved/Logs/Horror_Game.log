@@ -1638,3 +1638,428 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.07-14.50.36:389][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.07-14.50.36:389][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.07-14.50.36:389][434]AssetCheck: /Game/Blueprints/Items/BP_ItemMaster Validating asset
+[2026.02.07-14.51.20:209][382]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.07-14.51.20:226][382]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.07-14.51.20:236][382]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.07-14.51.20:256][383]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.07-14.51.27:467][959]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_InventorySlots
+[2026.02.07-14.51.27:475][959]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.07-14.51.28:824][ 54]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlots.WBP_InventorySlots
+[2026.02.07-14.51.28:824][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.07-14.51.28:830][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.07-14.51.53:421][168]LogContentBrowser: Attempting asset rename: WBP_InventorySlots -> WBP_InventorySlot
+[2026.02.07-14.51.53:638][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-14.51.53:638][168]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-14.51.53:641][168]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-14.51.53:641][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-14.51.53:641][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_InventorySlot" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset" SILENT=true
+[2026.02.07-14.51.53:653][168]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_InventorySlot
+[2026.02.07-14.51.53:653][168]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlot89A26D914CCCC789BB5CD7B734754E4E.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset'
+[2026.02.07-14.51.53:660][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.212 ms (total: 473.735 ms)
+[2026.02.07-14.51.53:742][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.02.07-14.51.53:777][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.07-14.51.53:805][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.07-14.51.53:882][168]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-14.51.53:882][168]LogContentValidation: Enabled validators:
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-14.51.53:882][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-14.51.53:882][168]AssetCheck: /Game/Blueprints/UI/WBP_InventorySlot Validating asset
+[2026.02.07-14.51.53:932][168]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.07-14.51.56:912][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.02.07-14.52.52:968][318]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2078.819824
+[2026.02.07-14.52.53:134][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-14.52.53:134][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2078.976318, Update Interval: 337.177032
+[2026.02.07-14.53.25:237][830]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.07-14.53.25:240][830]LogTexture: Display: Building textures: /Game/Assets/UI_Background2.UI_Background2 (TFO_AutoDXT, 96x96 x1x1x1) (Required Memory Estimate: 2.453125 MB), EncodeSpeed: Fast
+[2026.02.07-14.53.43:756][434]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.07-14.53.56:938][420]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.07-14.55.57:458][709]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: ================================================
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Total job queries 431, among them cache hits 29 (6.73%), DDC hits 329 (76.33%), Duplicates 70 (16.24%)
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Tracking 332 distinct input hashes that result in 238 distinct outputs (71.69%)
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: RAM used: 3.27 MiB of 1.60 GiB budget. Usage: 0.20%
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Average time worker was idle: 0.22 s
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 0.92 s
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 0.99
+[2026.02.07-14.57.23:462][540]LogShaderCompilers: Display: Shader code size: total 20.125 KiB, numShaders 3, average 6.708 KiB, min 5.738 KiB, max 7.242 KiB
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.94 s
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Total thread time: 1.556 s
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Total thread preprocess time: 10.361 s
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Percentage time preprocessing: 665.83%
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.100389
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.60 sec, max 0.64 sec, min 0.55 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 76.55% of total time (compiled    2 times, average 0.60 sec, max 0.64 sec, min 0.55 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.45% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: === Material stats ===
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Materials Translated:    141
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Material Translation Only: 0.06 s (34%)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: Material Cache Hits: 21 (15%)
+[2026.02.07-14.57.23:463][540]LogShaderCompilers: Display: ================================================
+[2026.02.07-14.57.36:578][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.07-14.57.37:291][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-14.57.37:359][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-14.57.37:363][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-14.57.37:363][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-14.57.37:363][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_InventorySlot" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset" SILENT=true
+[2026.02.07-14.57.37:378][345]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_InventorySlot
+[2026.02.07-14.57.37:380][345]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlot297059B240E9071EA9F74DA586FCD286.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset'
+[2026.02.07-14.57.37:394][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.955 ms (total: 575.690 ms)
+[2026.02.07-14.57.37:469][345]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-14.57.37:469][345]LogContentValidation: Enabled validators:
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-14.57.37:469][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-14.57.37:471][345]AssetCheck: /Game/Blueprints/UI/WBP_InventorySlot Validating asset
+[2026.02.07-14.58.18:797][ 48]LogSlate: Took 0.009352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.07-14.59.14:661][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.07-14.59.19:030][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2464.881592
+[2026.02.07-14.59.19:209][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-14.59.19:209][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.052002, Update Interval: 345.851013
+[2026.02.07-14.59.25:216][457]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventory/Struct_InventorySlotData.Struct_InventorySlotData
+[2026.02.07-15.00.32:080][769]LogEditorTransaction: Undo Move Node
+[2026.02.07-15.01.56:440][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.02.07-15.02.22:063][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.02.07-15.02.22:066][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.033
+[2026.02.07-15.02.22:066][606]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-15.02.22:070][606]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-15.02.22:070][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-15.02.22:090][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_InventorySlot_Auto3
+[2026.02.07-15.02.22:090][606]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlot_Auto3A7BCF9D4447F14203886589FC0C9F580.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/Blueprints/UI/WBP_InventorySlot_Auto3.uasset'
+[2026.02.07-15.02.22:091][606]LogFileHelpers: Auto-saving content packages took 0.026
+[2026.02.07-15.05.46:872][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2852.727295
+[2026.02.07-15.05.47:022][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-15.05.47:022][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2852.869141, Update Interval: 300.661041
+[2026.02.07-15.10.06:614][170]LogEditorTransaction: Undo Create Pin Link
+[2026.02.07-15.11.19:489][631]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3185.344727
+[2026.02.07-15.11.19:636][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-15.11.19:636][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3185.483398, Update Interval: 354.325378
+[2026.02.07-15.13.15:155][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.02.07-15.13.15:773][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-15.13.15:858][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-15.13.15:862][515]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-15.13.15:862][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-15.13.15:862][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_InventorySlot" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset" SILENT=true
+[2026.02.07-15.13.15:887][515]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_InventorySlot
+[2026.02.07-15.13.15:889][515]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlotF3B190C34C2F11826C9C83833CF0B42D.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset'
+[2026.02.07-15.13.15:906][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.734 ms (total: 708.425 ms)
+[2026.02.07-15.13.15:991][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-15.13.15:991][515]LogContentValidation: Enabled validators:
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-15.13.15:991][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-15.13.15:992][515]AssetCheck: /Game/Blueprints/UI/WBP_InventorySlot Validating asset
+[2026.02.07-15.14.19:415][761]LogEditorTransaction: Undo Rename Widget
+[2026.02.07-15.14.19:998][768]LogEditorTransaction: Undo Rename Widget
+[2026.02.07-15.14.57:248][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.02.07-15.16.06:068][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.02.07-15.16.06:939][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-15.16.07:019][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-15.16.07:023][609]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-15.16.07:023][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-15.16.07:023][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_InventorySlot" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset" SILENT=true
+[2026.02.07-15.16.07:049][609]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_InventorySlot
+[2026.02.07-15.16.07:050][609]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlot5C07035741DC76746A28CC9D330245A5.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset'
+[2026.02.07-15.16.07:065][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.175 ms (total: 835.600 ms)
+[2026.02.07-15.16.07:131][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-15.16.07:131][609]LogContentValidation: Enabled validators:
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-15.16.07:131][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-15.16.07:132][609]AssetCheck: /Game/Blueprints/UI/WBP_InventorySlot Validating asset
+[2026.02.07-15.17.44:407][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3570.273438
+[2026.02.07-15.17.45:411][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-15.17.45:411][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3570.942627, Update Interval: 326.957611
+[2026.02.07-15.19.34:304][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.02.07-15.19.54:925][556]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.07-15.21.20:862][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.07-15.21.26:931][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.02.07-15.22.43:059][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.02.07-15.22.43:630][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-15.22.43:705][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventorySlot] ([2] browsable assets)...
+[2026.02.07-15.22.43:707][243]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventorySlot.WBP_InventorySlot]
+[2026.02.07-15.22.43:707][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventorySlot]
+[2026.02.07-15.22.43:707][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_InventorySlot" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset" SILENT=true
+[2026.02.07-15.22.43:734][243]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_InventorySlot
+[2026.02.07-15.22.43:735][243]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventorySlot9763DDC74B61CECAB9CDF0B17677F31F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_InventorySlot.uasset'
+[2026.02.07-15.22.43:750][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.908 ms (total: 956.508 ms)
+[2026.02.07-15.22.43:817][243]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-15.22.43:817][243]LogContentValidation: Enabled validators:
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-15.22.43:817][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-15.22.43:818][243]AssetCheck: /Game/Blueprints/UI/WBP_InventorySlot Validating asset
+[2026.02.07-15.24.05:034][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3950.909912
+[2026.02.07-15.24.05:217][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-15.24.05:217][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3951.084961, Update Interval: 346.145813
+[2026.02.07-15.24.40:306][286]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.07-15.25.00:849][ 64]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.07-15.25.00:878][ 64]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.07-15.25.07:734][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.02.07-15.25.07:736][591]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.02.07-15.25.07:736][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_InventoryUI] ([2] browsable assets)...
+[2026.02.07-15.25.07:740][591]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_InventoryUI.WBP_InventoryUI]
+[2026.02.07-15.25.07:740][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_InventoryUI]
+[2026.02.07-15.25.07:763][591]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_InventoryUI_Auto4
+[2026.02.07-15.25.07:763][591]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_InventoryUI_Auto4063D92234912C07EE47BDDBA2C63691F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/Blueprints/UI/WBP_InventoryUI_Auto4.uasset'
+[2026.02.07-15.25.07:764][591]LogFileHelpers: Auto-saving content packages took 0.029
+[2026.02.07-15.25.34:554][770]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.07-15.25.50:089][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.07-15.25.50:100][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.07-15.30.20:852][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.02.07-15.30.33:050][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4338.932129
+[2026.02.07-15.30.33:208][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-15.30.33:208][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4339.083008, Update Interval: 313.462311
+[2026.02.07-15.32.24:540][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.02.07-15.33.35:629][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.02.07-15.33.38:969][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.07-15.33.38:980][652]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.07-15.33.38:980][652]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.07-15.33.38:981][652]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.158 ms (total: 12.503 ms)
+[2026.02.07-15.33.38:981][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.07-15.33.38:982][652]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.33.38:992][652]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.07-15.33.38:994][652]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.991 ms (total: 11.836 ms)
+[2026.02.07-15.33.38:994][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012356s)
+[2026.02.07-15.33.38:994][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012473s)
+[2026.02.07-15.33.39:026][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.02.07-15.33.39:028][652]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.07-15.33.39:031][652]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.07-15.33.39:031][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.07-15.33.39:031][652]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.07-15.33.39:031][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.07-15.33.39:033][652]LogWorldPartition: Display: WorldPartition initialize took 2.215 ms (total: 847.645 ms)
+[2026.02.07-15.33.39:033][652]LogPlayLevel: PIE: World Init took: (0.004579s)
+[2026.02.07-15.33.39:034][652]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.07-15.33.39:034][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.07-15.33.39:034][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.07-15.33.39:034][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.07-15.33.39:034][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.07-15.33.39:034][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.07-15.33.39:037][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.07-15.33.39:064][652]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.02.07-15.33.39:065][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.07-15.33.39:065][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.07-15.33.39:065][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.07-15.33.39:065][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.07-15.33.39:065][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.07-15.33.39:067][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.07-15.33.39:067][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.07-15.33.39:067][652]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.07-15.33.39:067][652]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.02.07-15.33.39:067][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.07-15.33.39:133][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.33.39:134][652]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.07-15.33.39:138][652]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.07-15.33.39
+[2026.02.07-15.33.39:140][652]LogWorld: Bringing up level for play took: 0.005179
+[2026.02.07-15.33.39:143][652]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.02.07-15.33.39:151][652]PIE: Server logged in
+[2026.02.07-15.33.39:153][652]PIE: Play in editor total start time 0.174 seconds.
+[2026.02.07-15.33.39:247][653]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.07-15.33.44:444][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.33.44:444][985]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.33.44:445][985]LogSlate: Window 'Horror_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.07-15.33.44:457][985]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-15.33.44:459][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.33.44:459][985]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.07-15.33.44:471][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.07-15.33.44:478][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.33.44:510][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.07-15.33.44:510][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.07-15.33.44:510][985]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.07-15.33.44:512][985]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.07-15.33.44:522][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.02.07-15.33.44:576][986]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.02.07-15.35.55:590][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.02.07-15.35.56:217][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.07-15.35.56:294][125]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2026.02.07-15.35.56:298][125]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2026.02.07-15.35.56:298][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHUD]
+[2026.02.07-15.35.56:298][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PlayerHUD" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_PlayerHUD.uasset" SILENT=true
+[2026.02.07-15.35.56:319][125]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PlayerHUD
+[2026.02.07-15.35.56:320][125]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_PlayerHUDEEA59BFD42BE79193BDF3BA18BFD2EBF.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_PlayerHUD.uasset'
+[2026.02.07-15.35.56:337][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.546 ms (total: 1.07 sec)
+[2026.02.07-15.35.56:406][125]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.07-15.35.56:406][125]LogContentValidation: Enabled validators:
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.07-15.35.56:406][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.07-15.35.56:408][125]AssetCheck: /Game/Blueprints/UI/WBP_PlayerHUD Validating asset
+[2026.02.07-15.35.57:170][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.07-15.35.57:179][210]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.07-15.35.57:179][210]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.07-15.35.57:180][210]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.102 ms (total: 13.605 ms)
+[2026.02.07-15.35.57:180][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.07-15.35.57:180][210]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.35.57:191][210]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.07-15.35.57:193][210]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.050 ms (total: 13.887 ms)
+[2026.02.07-15.35.57:193][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012446s)
+[2026.02.07-15.35.57:193][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012488s)
+[2026.02.07-15.35.57:224][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.02.07-15.35.57:226][210]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.07-15.35.57:228][210]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.07-15.35.57:228][210]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.07-15.35.57:228][210]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.07-15.35.57:228][210]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.07-15.35.57:230][210]LogWorldPartition: Display: WorldPartition initialize took 2.227 ms (total: 849.872 ms)
+[2026.02.07-15.35.57:230][210]LogPlayLevel: PIE: World Init took: (0.004319s)
+[2026.02.07-15.35.57:231][210]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.07-15.35.57:231][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.07-15.35.57:231][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.07-15.35.57:231][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.07-15.35.57:231][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.07-15.35.57:231][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.07-15.35.57:233][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.07-15.35.57:259][210]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.02.07-15.35.57:260][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.07-15.35.57:260][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.07-15.35.57:260][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.07-15.35.57:260][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.07-15.35.57:260][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.07-15.35.57:262][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.07-15.35.57:262][210]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.07-15.35.57:262][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.07-15.35.57:262][210]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.02.07-15.35.57:262][210]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.07-15.35.57:330][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.35.57:330][210]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.07-15.35.57:335][210]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.07-15.35.57
+[2026.02.07-15.35.57:335][210]LogWorld: Bringing up level for play took: 0.004956
+[2026.02.07-15.35.57:338][210]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.02.07-15.35.57:345][210]PIE: Server logged in
+[2026.02.07-15.35.57:346][210]PIE: Play in editor total start time 0.167 seconds.
+[2026.02.07-15.35.57:442][211]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.07-15.36.03:730][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.36.03:730][754]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.36.03:730][754]LogSlate: Window 'Horror_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.07-15.36.03:741][754]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-15.36.03:742][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.36.03:742][754]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.07-15.36.03:745][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.07-15.36.03:751][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.36.03:784][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.07-15.36.03:784][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.07-15.36.03:784][754]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.07-15.36.03:786][754]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.07-15.36.03:797][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.02.07-15.36.03:847][755]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.02.07-15.36.05:903][926]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.07-15.36.05:911][926]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.07-15.36.05:911][926]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.07-15.36.05:913][926]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.031 ms (total: 14.637 ms)
+[2026.02.07-15.36.05:913][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.07-15.36.05:953][926]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.36.05:963][926]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.07-15.36.05:964][926]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.977 ms (total: 15.865 ms)
+[2026.02.07-15.36.05:965][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011370s)
+[2026.02.07-15.36.05:965][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011416s)
+[2026.02.07-15.36.05:993][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.02.07-15.36.05:994][926]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.07-15.36.05:997][926]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.07-15.36.05:997][926]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.07-15.36.05:997][926]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.07-15.36.05:997][926]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.07-15.36.05:999][926]LogWorldPartition: Display: WorldPartition initialize took 2.203 ms (total: 852.075 ms)
+[2026.02.07-15.36.05:999][926]LogPlayLevel: PIE: World Init took: (0.004134s)
+[2026.02.07-15.36.06:000][926]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.07-15.36.06:000][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.07-15.36.06:000][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.07-15.36.06:000][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.07-15.36.06:000][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.07-15.36.06:000][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.07-15.36.06:002][926]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.07-15.36.06:027][926]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.02.07-15.36.06:027][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.07-15.36.06:027][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.07-15.36.06:027][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.07-15.36.06:028][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.07-15.36.06:028][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.07-15.36.06:030][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.07-15.36.06:030][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.07-15.36.06:031][926]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.07-15.36.06:031][926]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2026.02.07-15.36.06:031][926]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.07-15.36.06:040][926]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.07-15.36.06:043][926]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.07-15.36.06
+[2026.02.07-15.36.06:045][926]LogWorld: Bringing up level for play took: 0.003590
+[2026.02.07-15.36.06:047][926]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.07-15.36.06:052][926]PIE: Server logged in
+[2026.02.07-15.36.06:055][926]PIE: Play in editor total start time 0.143 seconds.
+[2026.02.07-15.36.06:130][927]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.07-15.36.10:309][306]LogBlueprintUserMessages: [BPAC_InventoryCompontent] ItemSphereAdded to inventory with amount: 1
+[2026.02.07-15.36.11:616][427]LogBlueprintUserMessages: [BPAC_InventoryCompontent] ItemCylinderAdded to inventory with amount: 3
+[2026.02.07-15.36.12:933][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.36.12:933][546]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.07-15.36.12:934][546]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-15.36.12:934][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.36.12:934][546]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.07-15.36.12:936][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.07-15.36.12:943][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-15.36.12:973][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.07-15.36.12:973][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.07-15.36.12:973][546]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.07-15.36.12:975][546]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.07-15.36.12:982][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.02.07-15.36.13:045][547]LogPlayLevel: Display: Destroying online subsystem :Context_23
