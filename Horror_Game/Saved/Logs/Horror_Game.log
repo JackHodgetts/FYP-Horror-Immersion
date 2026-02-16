@@ -1258,3 +1258,368 @@ Sampler Limit: 32
 [2026.02.16-22.15.17:734][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2026.02.16-22.15.17:752][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2026.02.16-22.15.17:832][834]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-22.16.35:653][794]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-22.18.21:470][403]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-22.18.21:473][403]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.02.16-22.18.21:504][403]LogStaticMesh: Display: Building static mesh SM_HP_Tree (Required Memory Estimate: 879.039618 MB)...
+[2026.02.16-22.18.21:552][403]LogTexture: Display: Building textures: /Game/HighPoly_Tree_Model/Textures/Leaf/T_HP_Tree_Leaf.T_HP_Tree_Leaf (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.18.21:611][403]LogTexture: Display: Building textures: /Game/HighPoly_Tree_Model/Textures/Trunk/T_HP_Tree_Trunk_normal.T_HP_Tree_Trunk_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.02.16-22.18.21:621][403]LogTexture: Display: Building textures: /Game/HighPoly_Tree_Model/Textures/Trunk/T_HP_Tree_Trunk.T_HP_Tree_Trunk (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.18.21:679][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HighPoly_Tree_Model/Meshes/SM_HP_Tree.SM_HP_Tree
+[2026.02.16-22.18.21:680][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HighPoly_Tree_Model/Meshes/SM_HP_Tree.SM_HP_Tree
+[2026.02.16-22.18.21:682][404]LogActorFactory: Actor Factory spawned StaticMesh /Game/HighPoly_Tree_Model/Meshes/SM_HP_Tree.SM_HP_Tree as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_0
+[2026.02.16-22.18.21:698][404]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/HighPoly_Tree_Model/Meshes/SM_HP_Tree) ...
+[2026.02.16-22.18.23:254][404]LogStaticMesh: Adjacency [0.17s], tris: 564214, UVs 1
+[2026.02.16-22.18.24:902][404]LogStaticMesh: Clustering [1.65s]. Ratio: 1.021098
+[2026.02.16-22.18.24:942][404]LogStaticMesh: Leaves [0.04s]
+[2026.02.16-22.18.28:568][404]LogStaticMesh: Reduce [3.62s]
+[2026.02.16-22.18.28:807][404]LogStaticMesh: Fallback [0.24s], num tris: 27701
+[2026.02.16-22.18.28:816][404]LogStaticMesh: Fallback [0.01s], num tris: 471
+[2026.02.16-22.18.29:380][404]LogStaticMesh: ConstrainClusters:
+[2026.02.16-22.18.29:380][404]LogStaticMesh:   Input: 9213 Clusters, 1156815 Triangles and 1483498 Vertices
+[2026.02.16-22.18.29:380][404]LogStaticMesh:   Output without splits: 9213 Clusters, 1156815 Triangles and 1484264 Vertices
+[2026.02.16-22.18.29:380][404]LogStaticMesh:   Output with splits: 10461 Clusters, 1156815 Triangles and 1485008 Vertices
+[2026.02.16-22.18.29:395][404]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 10461, Slow Path Clusters: 0, 1 Material: 9605, 2 Materials: 856, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.16-22.18.29:693][404]LogStaticMesh: WritePages:
+[2026.02.16-22.18.29:693][404]LogStaticMesh:   Root: GPU size: 31928 bytes. 1 Pages. 31928.000 bytes per page (97.437% utilization).
+[2026.02.16-22.18.29:693][404]LogStaticMesh:   Streaming: GPU size: 18965068 bytes. 146 Pages (136 with relative encoding). 129897.727 bytes per page (99.104% utilization).
+[2026.02.16-22.18.29:693][404]LogStaticMesh:   Page data disk size: 13375700 bytes. Fixup data size: 78560 bytes.
+[2026.02.16-22.18.29:693][404]LogStaticMesh:   Total GPU size: 18996996 bytes, Total disk size: 13454260 bytes.
+[2026.02.16-22.18.29:697][404]LogStaticMesh: Encode [0.88s]
+[2026.02.16-22.18.29:700][404]LogStaticMesh: NaniteBuild [6.61s]
+[2026.02.16-22.18.30:812][404]LogStaticMesh: Built static mesh [9.31s] /Game/HighPoly_Tree_Model/Meshes/SM_HP_Tree.SM_HP_Tree
+[2026.02.16-22.18.31:865][405]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.16-22.18.37:378][783]LogMeshUtilities: Finished distance field build in 5.5s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 61% occupied, 0 triangles, SM_HP_Tree
+[2026.02.16-22.18.47:802][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.16-22.18.54:290][704]Cmd: DELETE
+[2026.02.16-22.18.54:290][704]Cmd: ACTOR DELETE
+[2026.02.16-22.18.54:314][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.16-22.18.54:319][704]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.02.16-22.20.20:795][924]LogFab: Display: Logging in using persist
+[2026.02.16-22.20.20:797][924]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2026.02.16-22.20.21:029][924]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.02.16-22.20.21:048][924]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.02.16-22.20.21:386][924]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2026.02.16-22.20.21:386][924]LogFab: Display: Logging in using exchange code
+[2026.02.16-22.20.21:386][924]LogFab: Display: Reading exchange code from commandline
+[2026.02.16-22.20.21:386][924]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2026.02.16-22.20.21:410][925]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2026.02.16-22.20.25:112][228]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.02.16-22.20.25:112][228]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.02.16-22.20.29:199][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.832947
+[2026.02.16-22.20.29:369][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-22.20.29:369][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.988922, Update Interval: 323.044525
+[2026.02.16-22.20.32:848][849]LogFab: Display: Logging in using account portal
+[2026.02.16-22.20.32:849][849]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay can be used with this login type
+[2026.02.16-22.20.32:849][849]LogEOSSDK: Warning: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not ready: EOS_DesktopCrossplay_ApplicationNotBootstrapped
+[2026.02.16-22.20.32:850][849]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not required for login
+[2026.02.16-22.20.33:034][863]LogEOSSDK: LogEOSAuth: GenerateUserAuthByDeviceCode: Received FUserAuthToken
+[2026.02.16-22.20.33:043][864]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Device auth to be continued at: <Redacted>
+[2026.02.16-22.20.33:043][864]LogEOSSDK: Warning: LogEOSAuth: UserAuthGenerated: Account Portal overlay failed to load for device auth continuation; falling back to browser based flow
+[2026.02.16-22.20.33:044][864]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Launching with platform browser: <Redacted>
+[2026.02.16-22.20.33:053][864]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Successfully launched with platform browser
+[2026.02.16-22.20.33:218][873]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-li6DGdGRSUeZCGb_y5fbbA-V9hGJ8p68EOJcCobz8exkg]
+[2026.02.16-22.20.43:422][ 23]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 0bd...a66 Access[Expires: 2026.02.17-00.20.44 Remaining: 7200.52] Refresh[Expires: 2026-08-15T22:20:44.520Z Remaining: 15552000.52] State: Valid
+[2026.02.16-22.20.43:434][ 24]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.16-22.20.43:737][ 50]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.16-22.20.43:737][ 50]LogFab: Display: User logged in
+[2026.02.16-22.20.43:737][ 50]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.16-22.20.43:954][ 69]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-li6DGdGRSUeZCGb_y5fbbA-5Bs-rAeLDEWTKA0LkyDESQ]
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: ================================================
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Total job queries 459, among them cache hits 50 (10.89%), DDC hits 333 (72.55%), Duplicates 68 (14.81%)
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Tracking 341 distinct input hashes that result in 247 distinct outputs (72.43%)
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: RAM used: 3.38 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Shaders Compiled: 8
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.09 s
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Job execution time: average 12.40 s, max 15.67 s
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Job life time (pending + execution): average 12.45 s, max 15.69
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Shader code size: total 133.793 KiB, numShaders 8, average 16.724 KiB, min 3.922 KiB, max 25.609 KiB
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.76 s
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Average processing rate: 0.51 jobs/sec
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Total thread time: 70.527 s
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Total thread preprocess time: 11.01 s
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Percentage time preprocessing: 15.61%
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Effective parallelization: 4.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.559309
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 11.19 sec, max 12.27 sec, min 10.10 sec)
+[2026.02.16-22.20.48:042][467]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 8.92 sec, max 9.10 sec, min 8.74 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 8.08 sec, max 8.30 sec, min 7.87 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 7.07 sec, max 7.18 sec, min 6.96 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 31.72% of total time (compiled    2 times, average 11.19 sec, max 12.27 sec, min 10.10 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 25.30% of total time (compiled    2 times, average 8.92 sec, max 9.10 sec, min 8.74 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                                 FLumenCardCS - 22.93% of total time (compiled    2 times, average 8.08 sec, max 8.30 sec, min 7.87 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                               FHWRasterizePS - 20.05% of total time (compiled    2 times, average 7.07 sec, max 7.18 sec, min 6.96 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: === Material stats ===
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Materials Translated:    154
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Material Translation Only: 0.07 s (38%)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: Material Cache Hits: 27 (18%)
+[2026.02.16-22.20.48:043][467]LogShaderCompilers: Display: ================================================
+[2026.02.16-22.21.02:619][859]LogFab: Display: Add listing to project - 1be6afff-f5db-4a8b-9fa3-ba554b9fe3f6
+[2026.02.16-22.21.02:619][859]LogFab: Display: Listing type - unreal-engine
+[2026.02.16-22.21.02:619][859]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/PineTree16bb048ed2ddV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/PineTree16bb048ed2ddV1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/PineTree16bb048ed2ddV1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/PineTree16bb048ed2ddV1/CloudDir
+[2026.02.16-22.21.06:631][186]LogDirectoryWatcher: Display: A directory notification failed for 'C:/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.16-22.21.06:632][186]LogDirectoryWatcher: Display: A directory notification failed for 'C:/GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.16-22.21.06:632][186]LogDirectoryWatcher: Display: A directory notification failed for 'C:/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Developers/jacky/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.16-22.21.09:035][356]LogSlate: Window 'Content Browser' being destroyed
+[2026.02.16-22.21.09:048][356]LogSlate: Window 'Content Browser' being destroyed
+[2026.02.16-22.21.13:283][734]LogSlate: Window 'Fab' being destroyed
+[2026.02.16-22.21.13:298][734]LogSlate: Window 'Fab' being destroyed
+[2026.02.16-22.21.14:786][884]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.02.16-22.21.14:786][884]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/library.
+[2026.02.16-22.21.26:189][927]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-22.21.26:199][927]LogStaticMesh: Display: Building static mesh SM_Imposter_3 (Required Memory Estimate: 0.021416 MB)...
+[2026.02.16-22.21.26:202][927]LogStaticMesh: Built static mesh [0.00s] /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.26:235][927]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_3.T_Pine_2_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.21.26:462][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.16-22.21.26:466][928]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2026.02.16-22.21.26:475][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.26:475][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.26:475][928]LogActorFactory: Actor Factory spawned StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_1
+[2026.02.16-22.21.27:241][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.16-22.21.27:242][987]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.02.16-22.21.27:250][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.27:250][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.27:255][987]LogActorFactory: Actor Factory spawned StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_9C6B0043AB9ABEBF02_1581464631
+[2026.02.16-22.21.27:256][987]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (SM_HP_Tree) Flags: (0x00208000)
+[2026.02.16-22.21.34:048][476]Cmd: DELETE
+[2026.02.16-22.21.34:048][476]Cmd: ACTOR DELETE
+[2026.02.16-22.21.34:050][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.16-22.21.34:069][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.16-22.21.34:071][476]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.16-22.21.40:546][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.40:546][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.40:547][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_2
+[2026.02.16-22.21.41:046][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.16-22.21.41:048][119]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.16-22.21.41:054][119]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.41:054][119]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3
+[2026.02.16-22.21.41:056][119]LogActorFactory: Actor Factory spawned StaticMesh /Game/Pine_Imposter_Pack/Meshes/Imposter/SM_Imposter_3.SM_Imposter_3 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_9C6B0043AB9ABEBF02_1595267632
+[2026.02.16-22.21.42:161][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-22.21.42:174][188]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-22.21.42:174][188]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.16-22.21.42:175][188]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.229 ms
+[2026.02.16-22.21.42:176][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-22.21.42:181][188]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.16-22.21.42:181][188]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.16-22.21.42:181][188]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-22.21.42:192][188]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-22.21.42:194][188]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.013 ms
+[2026.02.16-22.21.42:194][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012523s)
+[2026.02.16-22.21.42:194][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012593s)
+[2026.02.16-22.21.42:215][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.16-22.21.42:216][188]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.16-22.21.42:218][188]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-22.21.42:218][188]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-22.21.42:218][188]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-22.21.42:218][188]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-22.21.42:220][188]LogWorldPartition: Display: WorldPartition initialize took 2.483 ms (total: 117.905 ms)
+[2026.02.16-22.21.42:220][188]LogPlayLevel: PIE: World Init took: (0.004540s)
+[2026.02.16-22.21.42:221][188]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-22.21.42:221][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-22.21.42:221][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-22.21.42:221][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-22.21.42:221][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-22.21.42:221][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-22.21.42:224][188]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-22.21.42:256][188]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.02.16-22.21.42:257][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-22.21.42:257][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-22.21.42:257][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-22.21.42:257][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.16-22.21.42:257][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.16-22.21.42:260][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.16-22.21.42:260][188]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.16-22.21.42:260][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.16-22.21.42:260][188]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.02.16-22.21.42:260][188]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.16-22.21.42:265][188]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.16-22.21.42:269][188]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.16-22.21.42
+[2026.02.16-22.21.42:269][188]LogWorld: Bringing up level for play took: 0.003759
+[2026.02.16-22.21.42:272][188]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.02.16-22.21.42:284][188]PIE: Server logged in
+[2026.02.16-22.21.42:287][188]PIE: Play in editor total start time 0.113 seconds.
+[2026.02.16-22.21.42:395][189]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-22.21.53:763][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-22.21.53:764][339]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-22.21.53:764][339]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.21.53:765][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.21.53:765][339]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-22.21.53:767][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-22.21.53:770][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.21.53:786][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-22.21.53:786][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.16-22.21.53:786][339]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.16-22.21.53:789][339]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.16-22.21.53:797][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.16-22.21.53:888][340]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.02.16-22.21.55:112][442]Cmd: DELETE
+[2026.02.16-22.21.55:112][442]Cmd: ACTOR DELETE
+[2026.02.16-22.21.55:113][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.16-22.21.55:133][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.16-22.21.55:134][442]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.16-22.22.03:256][ 24]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.16-22.22.03:272][ 24]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 33 assets. Are you sure you want to continue?
+[2026.02.16-22.22.03:383][ 24]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-22.22.03:394][ 24]LogStaticMesh: Display: Building static mesh SM_Ground (Required Memory Estimate: 29.470755 MB)...
+[2026.02.16-22.22.03:414][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Demo/T_Ground_1.T_Ground_1 (BGRA8, 1414x1414 x1x1x1) (Required Memory Estimate: 69.643806 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.03:459][ 24]LogChaosDD: Creating Chaos Debug Draw Scene for world Pine_Imposter_Demo
+[2026.02.16-22.22.03:475][ 24]LogChaosDD: Creating Chaos Debug Draw Scene for world Pine_Imposter_Showcase
+[2026.02.16-22.22.03:502][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_1.T_Pine_2_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.03:523][ 24]LogObjectTools: Deleting 2 worlds: /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo.Pine_Imposter_Demo, /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Showcase.Pine_Imposter_Showcase
+[2026.02.16-22.22.03:523][ 24]LogObjectTools: Currently 4 active worlds: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.02.16-22.22.03:533][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_10.T_Pine_2_10 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.03:588][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_2.T_Pine_2_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.03:588][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_4.T_Pine_2_4 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.03:612][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2026.02.16-22.22.03:660][ 24]LogStaticMesh: Built static mesh [0.27s] /Game/Pine_Imposter_Pack/Demo/SM_Ground.SM_Ground
+[2026.02.16-22.22.03:995][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_5.T_Pine_2_5 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.04:014][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_6.T_Pine_2_6 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.04:049][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_7.T_Pine_2_7 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.04:077][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_8.T_Pine_2_8 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.04:077][ 24]LogTexture: Display: Building textures: /Game/Pine_Imposter_Pack/Textures/T_Pine_2_9.T_Pine_2_9 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.02.16-22.22.07:477][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.16-22.22.07:491][ 24]LogWorld: UWorld::CleanupWorld for Pine_Imposter_Demo, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.22.07:491][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.22.07:491][ 24]LogWorld: UWorld::CleanupWorld for Pine_Imposter_Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.22.07:491][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.22.12:625][ 24]LogMeshUtilities: Finished distance field build in 5.1s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 99% occupied, 0 triangles, SM_Ground
+[2026.02.16-22.22.12:846][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.16-22.22.12:882][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.16-22.22.12:901][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.16-22.22.12:971][ 24]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-22.23.00:288][819]LogFab: Display: Logging in using persist
+[2026.02.16-22.23.00:578][831]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 0bd...a66 Access[Expires: 2026.02.17-00.23.01 Remaining: 7200.68] Refresh[Expires: 2026-08-15T22:20:44.520Z Remaining: 15551863.52] State: Valid
+[2026.02.16-22.23.00:588][832]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.16-22.23.00:962][866]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.16-22.23.00:962][866]LogFab: Display: User logged in
+[2026.02.16-22.23.00:962][866]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: ================================================
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Total job queries 493, among them cache hits 62 (12.58%), DDC hits 345 (69.98%), Duplicates 68 (13.79%)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Tracking 363 distinct input hashes that result in 264 distinct outputs (72.73%)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: RAM used: 3.50 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Average time worker was idle: 144.00 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 2.39 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Job execution time: average 7.03 s, max 15.67 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Job life time (pending + execution): average 7.20 s, max 15.69
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Shader code size: total 216.617 KiB, numShaders 20, average 10.83 KiB, min 3.266 KiB, max 25.609 KiB
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.32 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Average processing rate: 0.89 jobs/sec
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Total thread time: 86.417 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Total thread preprocess time: 11.685 s
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Percentage time preprocessing: 13.52%
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Effective parallelization: 4.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.531576
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 11.19 sec, max 12.27 sec, min 10.10 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 8.92 sec, max 9.10 sec, min 8.74 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 8.08 sec, max 8.30 sec, min 7.87 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 7.07 sec, max 7.18 sec, min 6.96 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.91 sec, max 2.91 sec, min 2.91 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 25.89% of total time (compiled    2 times, average 11.19 sec, max 12.27 sec, min 10.10 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 20.65% of total time (compiled    2 times, average 8.92 sec, max 9.10 sec, min 8.74 sec)
+[2026.02.16-22.23.48:047][457]LogShaderCompilers: Display:                                                 FLumenCardCS - 18.71% of total time (compiled    2 times, average 8.08 sec, max 8.30 sec, min 7.87 sec)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display:                                               FHWRasterizePS - 16.37% of total time (compiled    2 times, average 7.07 sec, max 7.18 sec, min 6.96 sec)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.36% of total time (compiled    1 times, average 2.91 sec, max 2.91 sec, min 2.91 sec)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: === Material stats ===
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Materials Translated:    166
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Material Translation Only: 0.08 s (38%)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.02.16-22.23.48:048][457]LogShaderCompilers: Display: ================================================
+[2026.02.16-22.24.13:600][947]LogSlate: Window 'Fab' being destroyed
+[2026.02.16-22.24.13:618][947]LogSlate: Window 'Fab' being destroyed
+[2026.02.16-22.24.15:176][ 22]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.02.16-22.24.15:176][ 22]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2026.02.16-22.24.59:545][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.16-22.24.59:546][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.024
+[2026.02.16-22.25.55:476][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 673.110291
+[2026.02.16-22.25.57:143][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-22.25.57:143][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 674.443359, Update Interval: 347.193207
+[2026.02.16-22.29.47:252][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.16-22.29.47:325][214]LogStall: Shutdown...
+[2026.02.16-22.29.47:325][214]LogStall: Shutdown complete.
+[2026.02.16-22.29.47:432][214]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.29.47:432][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.29.47:493][214]LogSlate: Window 'Horror_Game - Unreal Editor' being destroyed
+[2026.02.16-22.29.47:615][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.16-22.29.47:623][214]Cmd: QUIT_EDITOR
+[2026.02.16-22.29.47:623][215]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.16-22.29.47:630][215]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.16-22.29.47:631][215]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.16-22.29.47:631][215]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.16-22.29.47:632][215]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.29.47:632][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.29.47:633][215]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-22.29.47:643][215]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.16-22.29.47:645][215]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.16-22.29.47:646][215]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.16-22.29.47:651][215]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.29.47:651][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.29.47:651][215]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-22.29.47:652][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-22.29.47:652][215]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.16-22.29.47:652][215]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.16-22.29.47:655][215]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.16-22.29.48:193][215]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.16-22.29.48:193][215]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.16-22.29.48:193][215]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.02.16-22.29.48:193][215]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.16-22.29.48:193][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.16-22.29.48:195][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.16-22.29.48:203][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.16-22.29.48:203][215]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.16-22.29.48:206][215]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.16-22.29.48:206][215]LogExit: Preparing to exit.
+[2026.02.16-22.29.48:236][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.16-22.29.48:996][215]LogEditorDataStorage: Deinitializing
+[2026.02.16-22.29.49:082][215]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.16-22.29.49:098][215]LogExit: Editor shut down
+[2026.02.16-22.29.49:102][215]LogExit: Transaction tracking system shut down
+[2026.02.16-22.29.49:205][215]LogExit: Object subsystem successfully closed.
+[2026.02.16-22.29.49:248][215]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.16-22.29.49:559][215]LogMemoryProfiler: Shutdown
+[2026.02.16-22.29.49:559][215]LogNetworkingProfiler: Shutdown
+[2026.02.16-22.29.49:559][215]LoadingProfiler: Shutdown
+[2026.02.16-22.29.49:559][215]LogTimingProfiler: Shutdown
+[2026.02.16-22.29.49:559][215]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.16-22.29.49:559][215]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.16-22.29.49:848][215]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.16-22.29.49:862][215]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.16-22.29.49:862][215]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1277D166-4F0A-5810-B2FF-1692E9711AFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=38db5cd9478da3a4f8a2f4bd299ea073%7C0bd7ef1ae97e415a9e8093943f223a66%7C127f271a-19dd-494f-9892-d5018d6d5cf4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.16-22.29.50:403][215]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.16-22.29.50:410][215]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.16-22.29.50:410][215]RenderDocPlugin: plugin has been unloaded.
+[2026.02.16-22.29.50:411][215]LogXGEController: Cleaning working directory: C:/Users/jacky/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.02.16-22.29.50:413][215]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.16-22.29.50:413][215]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.16-22.29.50:413][215]LogPakFile: Destroying PakPlatformFile
+[2026.02.16-22.29.50:658][215]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.16-22.29.50:693][215]LogExit: Exiting.
+[2026.02.16-22.29.50:713][215]Log file closed, 02/16/26 22:29:50
