@@ -5300,25 +5300,3 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.17-18.10.16:530][ 15]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2026.02.17-18.10.16:530][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.02.17-18.10.16:613][ 15]LogSlate: Window 'Horror_Game - Unreal Editor' being destroyed
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: === Critical error: ===
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: 
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: Fatal error!
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: 
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000000400001550
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: 
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8a91daaf6 UnrealEditor-Landscape.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8a91dadb9 UnrealEditor-Landscape.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8a91c7ae2 UnrealEditor-Landscape.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8a53ed30e UnrealEditor-Renderer.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8a541c874 UnrealEditor-Renderer.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff90af078e7 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff90af2e728 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8b415fb72 UnrealEditor-Core.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8b415284f UnrealEditor-Core.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8b4152ece UnrealEditor-Core.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff90af52b19 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff90af53c04 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8b47e37cd UnrealEditor-Core.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff8b47dc91f UnrealEditor-Core.dll!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: [Callstack] 0x00007ff97d5ae8d7 KERNEL32.DLL!UnknownFunction []
-[2026.02.17-18.10.20:414][ 15]LogWindows: Error: 
