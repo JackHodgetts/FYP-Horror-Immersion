@@ -17,3 +17,7 @@ Downloaded Assets:
 https://sketchfab.com/3d-models/stylized-tree-stump-04d51f5c2fb643aab3b93b451d1b77c9
 
 https://sketchfab.com/3d-models/wooden-logs-asset-pack-441fb13a0bf24f9aa8c4a219e5ab9be3
+
+I used code things to help me make some of my horror mechanics
+
+https://www.youtube.com/@codethings/videos
