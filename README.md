@@ -20,6 +20,10 @@ https://sketchfab.com/3d-models/wooden-logs-asset-pack-441fb13a0bf24f9aa8c4a219e
 
 https://sketchfab.com/3d-models/cabin-b02b8de5e8374fa182d2561275177320 - Removed wood on window for gameplay purposes
 
+https://sketchfab.com/3d-models/tent-79b6315d09384e8180e40e179568915b
+
+https://sketchfab.com/3d-models/watch-tower-cb1bea64a32f40dab5dcbab1e590588f - Removed the door from the model
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
