@@ -26,6 +26,8 @@ https://sketchfab.com/3d-models/watch-tower-cb1bea64a32f40dab5dcbab1e590588f - R
 
 https://sketchfab.com/3d-models/walkie-talkie-da676491d5744cd7b7ef25f16ccbabae
 
+https://sketchfab.com/3d-models/paper-a8ed9eeea88842469b5dade54cd8eb6b
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
