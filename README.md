@@ -24,6 +24,8 @@ https://sketchfab.com/3d-models/tent-79b6315d09384e8180e40e179568915b
 
 https://sketchfab.com/3d-models/watch-tower-cb1bea64a32f40dab5dcbab1e590588f - Removed the door from the model
 
+https://sketchfab.com/3d-models/walkie-talkie-da676491d5744cd7b7ef25f16ccbabae
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
@@ -62,6 +64,14 @@ https://freesound.org/people/soundmary/sounds/194978/
 
 https://freesound.org/people/gristi/sounds/562195/
 
+https://opengameart.org/content/flashlight-pattern-incandescent
+
 https://freesound.org/people/nate_asdfg/sounds/463811/
 
 https://freesound.org/people/IENBA/sounds/834029/
+
+Flashlight
+
+https://freesound.org/people/LightYarn/sounds/173420/
+
+https://freesound.org/people/LightYarn/sounds/173419/
