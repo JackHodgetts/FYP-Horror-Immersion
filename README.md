@@ -28,6 +28,10 @@ https://sketchfab.com/3d-models/walkie-talkie-da676491d5744cd7b7ef25f16ccbabae
 
 https://sketchfab.com/3d-models/paper-a8ed9eeea88842469b5dade54cd8eb6b
 
+https://sketchfab.com/3d-models/first-aid-box-1427d011f6ea4ad89f377380f379698e
+
+https://sketchfab.com/3d-models/bandage-roll-dd33fad87aec468daeb0398ea4a6389f
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
@@ -85,3 +89,9 @@ https://freesound.org/people/ajanhallinta/sounds/649543/
 https://freesound.org/people/dersuperanton/sounds/437650/
 
 https://freesound.org/people/dersuperanton/sounds/437651/
+
+Healing
+
+https://freesound.org/people/Frostnox/sounds/796014/
+
+https://freesound.org/people/Frostnox/sounds/796015/
