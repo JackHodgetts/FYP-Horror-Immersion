@@ -4559,3 +4559,657 @@ Continue: Skip saving this asset only.
 [2026.03.12-16.09.39:143][362]AssetCheck: /Game/Assets/Models/Medkit/texture_normal Validating asset
 [2026.03.12-16.09.39:143][362]AssetCheck: /Game/Assets/Models/Medkit/texture_roughness Validating asset
 [2026.03.12-16.09.39:175][362]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-16.10.37:209][581]LogShaderCompilers: Display: ================================================
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Total job queries 584, among them cache hits 71 (12.16%), DDC hits 375 (64.21%), Duplicates 75 (12.84%)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 314 distinct outputs (71.69%)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: RAM used: 3.92 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Shaders Compiled: 63
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100%)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Average time worker was idle: 1003.10 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Time job spent in pending queue: average 1.08 s, longest 4.65 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Job execution time: average 2.32 s, max 4.87 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Job life time (pending + execution): average 3.40 s, max 7.04
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Shader code size: total 634.879 KiB, numShaders 69, average 9.2 KiB, min 1.727 KiB, max 20.555 KiB
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.64 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Average processing rate: 2.46 jobs/sec
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Total thread time: 125.1 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Total thread preprocess time: 14.928 s
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Percentage time preprocessing: 11.93%
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Effective parallelization: 4.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.609882
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.25 sec, max 4.43 sec, min 4.07 sec)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 4.24 sec, max 4.41 sec, min 4.07 sec)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 3.85 sec, max 3.94 sec, min 3.77 sec)
+[2026.03.12-16.10.37:210][581]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.39 sec, max 3.47 sec, min 3.31 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 3.12 sec, max 3.61 sec, min 2.66 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.70% of total time (compiled    6 times, average 2.44 sec, max 3.69 sec, min 1.32 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.99% of total time (compiled    4 times, average 3.12 sec, max 3.61 sec, min 2.66 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.70% of total time (compiled    8 times, average 1.36 sec, max 2.14 sec, min 0.80 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.80% of total time (compiled    2 times, average 4.25 sec, max 4.43 sec, min 4.07 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 6.78% of total time (compiled    2 times, average 4.24 sec, max 4.41 sec, min 4.07 sec)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: === Material stats ===
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Materials Translated:    165
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Material Translation Only: 0.08 s (42%)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.03.12-16.10.37:211][581]LogShaderCompilers: Display: ================================================
+[2026.03.12-16.11.59:839][829]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.12-16.12.52:237][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7349.392090
+[2026.03.12-16.12.53:236][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.12.53:237][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7350.059570, Update Interval: 311.382172
+[2026.03.12-16.15.42:484][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.03.12-16.15.42:487][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.047
+[2026.03.12-16.15.42:487][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-16.15.42:487][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-16.15.42:616][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.12-16.15.42:617][305]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto7145BB85A426045B0811CAA948A3ECD09.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.12-16.18.59:398][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7716.556641
+[2026.03.12-16.19.00:399][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.19.00:399][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7717.222168, Update Interval: 359.137543
+[2026.03.12-16.25.42:888][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.12-16.25.42:890][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.040
+[2026.03.12-16.25.50:786][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8127.939453
+[2026.03.12-16.25.51:786][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.25.51:786][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8128.604980, Update Interval: 303.733643
+[2026.03.12-16.31.36:166][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8473.283203
+[2026.03.12-16.31.37:165][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.31.37:165][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8473.949219, Update Interval: 304.228027
+[2026.03.12-16.35.43:227][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.12-16.35.43:230][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.045
+[2026.03.12-16.37.29:519][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8826.773438
+[2026.03.12-16.37.29:705][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.37.29:705][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8826.950195, Update Interval: 353.495911
+[2026.03.12-16.44.04:533][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9221.299805
+[2026.03.12-16.44.04:705][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.44.04:705][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9221.462891, Update Interval: 354.865570
+[2026.03.12-16.45.43:458][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.12-16.45.43:461][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.045
+[2026.03.12-16.50.34:976][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9610.744141
+[2026.03.12-16.50.35:137][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.50.35:137][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9610.891602, Update Interval: 300.457764
+[2026.03.12-16.53.09:316][602]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.12-16.53.09:330][602]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.12-16.53.09:342][602]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.12-16.53.09:373][603]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.12-16.53.10:867][710]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Objective
+[2026.03.12-16.53.10:877][710]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.12-16.53.12:618][837]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/Player/WBP_Objective.WBP_Objective
+[2026.03.12-16.53.12:619][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.12-16.53.12:625][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.12-16.55.20:414][262]LogEditorTransaction: Undo Rename Widget
+[2026.03.12-16.55.20:817][264]LogEditorTransaction: Undo Add Widget
+[2026.03.12-16.56.09:859][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9945.205078
+[2026.03.12-16.56.10:860][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-16.56.10:861][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9945.871094, Update Interval: 333.480042
+[2026.03.12-16.57.15:830][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.12-16.57.15:833][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.066
+[2026.03.12-16.57.15:834][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-16.57.15:834][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-16.57.15:957][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.12-16.57.15:958][768]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto74CBDF1BA4A5F955C6D6E438726DAE03D.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.12-17.02.38:743][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10334.062500
+[2026.03.12-17.02.39:742][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.02.39:742][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10334.729492, Update Interval: 325.012970
+[2026.03.12-17.07.16:535][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.03.12-17.07.16:537][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.044
+[2026.03.12-17.08.39:121][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10694.410156
+[2026.03.12-17.08.40:120][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.08.40:120][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10695.076172, Update Interval: 350.013123
+[2026.03.12-17.11.59:840][421]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.12-17.15.08:505][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11083.771484
+[2026.03.12-17.15.09:503][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.15.09:503][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11084.437500, Update Interval: 334.813080
+[2026.03.12-17.17.16:953][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.12-17.17.16:956][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2026.03.12-17.21.14:891][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11450.127930
+[2026.03.12-17.21.15:890][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.21.15:890][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11450.794922, Update Interval: 337.012238
+[2026.03.12-17.27.17:364][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.12-17.27.17:366][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.037
+[2026.03.12-17.27.52:608][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11847.830078
+[2026.03.12-17.27.53:608][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.27.53:608][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11848.496094, Update Interval: 355.636475
+[2026.03.12-17.34.27:322][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12242.522461
+[2026.03.12-17.34.28:323][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.34.28:323][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12243.189453, Update Interval: 342.337097
+[2026.03.12-17.37.17:773][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.12-17.37.17:775][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.03.12-17.40.43:373][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12618.548828
+[2026.03.12-17.40.44:372][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.40.44:372][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12619.215820, Update Interval: 300.802032
+[2026.03.12-17.44.58:646][179]LogEditorTransaction: Undo Edit Vertical Alignment
+[2026.03.12-17.46.25:498][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12960.594727
+[2026.03.12-17.46.26:498][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.46.26:498][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12961.260742, Update Interval: 328.871124
+[2026.03.12-17.47.20:335][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2026.03.12-17.47.20:864][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.47.20:939][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/Player/WBP_Objective] ([2] browsable assets)...
+[2026.03.12-17.47.20:942][428]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/Player/WBP_Objective.WBP_Objective]
+[2026.03.12-17.47.20:943][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Player/WBP_Objective]
+[2026.03.12-17.47.20:943][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Player/WBP_Objective" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset" SILENT=true
+[2026.03.12-17.47.20:957][428]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Player/WBP_Objective
+[2026.03.12-17.47.20:957][428]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_Objective6472ECB64100546543BC75AE22B93E52.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset'
+[2026.03.12-17.47.20:977][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.282 ms (total: 20.5 sec)
+[2026.03.12-17.47.21:073][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.47.21:073][428]LogContentValidation: Enabled validators:
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.47.21:073][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.47.21:074][428]AssetCheck: /Game/Blueprints/UI/Player/WBP_Objective Validating asset
+[2026.03.12-17.47.21:098][428]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-17.47.46:125][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.12-17.47.46:128][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.038
+[2026.03.12-17.47.46:129][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-17.47.46:129][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-17.47.46:253][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.12-17.47.46:254][ 87]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto70175FFD9447EB174139C4685DC517E0F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.12-17.50.14:029][232]LogEditorTransaction: Undo Add widget to animation
+[2026.03.12-17.52.43:359][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13338.466797
+[2026.03.12-17.52.43:516][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.52.43:516][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13338.616211, Update Interval: 343.509033
+[2026.03.12-17.53.05:889][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2026.03.12-17.53.06:464][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.53.06:543][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/Player/WBP_Objective] ([2] browsable assets)...
+[2026.03.12-17.53.06:546][255]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/Player/WBP_Objective.WBP_Objective]
+[2026.03.12-17.53.06:546][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Player/WBP_Objective]
+[2026.03.12-17.53.06:546][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Player/WBP_Objective" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset" SILENT=true
+[2026.03.12-17.53.06:567][255]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Player/WBP_Objective
+[2026.03.12-17.53.06:568][255]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_Objective929685604FB71FE40E2CD88926EABA87.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset'
+[2026.03.12-17.53.06:583][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.793 ms (total: 20.6 sec)
+[2026.03.12-17.53.06:660][255]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.53.06:660][255]LogContentValidation: Enabled validators:
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.53.06:660][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.53.06:660][255]AssetCheck: /Game/Blueprints/UI/Player/WBP_Objective Validating asset
+[2026.03.12-17.53.12:164][630]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.12-17.53.12:184][630]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.12-17.53.12:204][631]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.12-17.53.14:346][792]LogContentBrowser: Attempting asset rename: NewFolder -> Objective
+[2026.03.12-17.53.14:348][792]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.12-17.53.18:713][970]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.12-17.53.18:730][970]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.12-17.53.18:742][970]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.12-17.53.18:775][972]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.12-17.53.25:622][501]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ObjectivePoint
+[2026.03.12-17.53.25:631][501]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.12-17.53.27:195][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint
+[2026.03.12-17.53.27:196][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.03.12-17.55.55:700][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.12-17.56.26:130][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.03.12-17.56.26:845][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.56.26:921][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-17.56.26:921][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-17.56.26:934][722]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-17.56.26:934][722]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint629FF91448DB35B52A1EE9B6A8679980.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-17.56.26:952][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.122 ms (total: 20.7 sec)
+[2026.03.12-17.56.27:038][722]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.56.27:038][722]LogContentValidation: Enabled validators:
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.56.27:038][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.56.27:038][722]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-17.56.27:065][722]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-17.56.38:180][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2026.03.12-17.56.38:736][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.56.38:837][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-17.56.38:837][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-17.56.38:851][390]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-17.56.38:852][390]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint8E953F554359436A392B18A9FDC7D84D.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-17.56.38:867][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.872 ms (total: 20.8 sec)
+[2026.03.12-17.56.38:969][390]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.56.38:969][390]LogContentValidation: Enabled validators:
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.56.38:969][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.56.38:970][390]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-17.57.00:137][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.03.12-17.57.00:669][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.57.00:751][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-17.57.00:751][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-17.57.00:764][621]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-17.57.00:765][621]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint1BD05E4049232D5FFCFF8A8918D49477.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-17.57.00:782][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.810 ms (total: 20.9 sec)
+[2026.03.12-17.57.00:864][621]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.57.00:864][621]LogContentValidation: Enabled validators:
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.57.00:864][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.57.00:864][621]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-17.58.38:395][ 93]LogShaderCompilers: Display: ================================================
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Total job queries 595, among them cache hits 71 (11.93%), DDC hits 379 (63.70%), Duplicates 75 (12.61%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Tracking 449 distinct input hashes that result in 321 distinct outputs (71.49%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: RAM used: 3.97 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Shaders Compiled: 70
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Jobs assigned 70, completed 70 (100%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Average time worker was idle: 1637.46 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Time job spent in pending queue: average 0.98 s, longest 4.65 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Job execution time: average 2.26 s, max 4.87 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Job life time (pending + execution): average 3.23 s, max 7.04
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Shader code size: total 701.773 KiB, numShaders 78, average 8.997 KiB, min 1.727 KiB, max 20.555 KiB
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.21 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Jobs were issued in 70 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Total thread time: 133.612 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Total thread preprocess time: 15.197 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Percentage time preprocessing: 11.37%
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Effective parallelization: 4.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.592092
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.25 sec, max 4.43 sec, min 4.07 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 4.24 sec, max 4.41 sec, min 4.07 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 3.85 sec, max 3.94 sec, min 3.77 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.39 sec, max 3.47 sec, min 3.31 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 3.12 sec, max 3.61 sec, min 2.66 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.95% of total time (compiled    6 times, average 2.44 sec, max 3.69 sec, min 1.32 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.35% of total time (compiled    4 times, average 3.12 sec, max 3.61 sec, min 2.66 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.86% of total time (compiled    9 times, average 1.32 sec, max 2.14 sec, min 0.80 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.36% of total time (compiled    2 times, average 4.25 sec, max 4.43 sec, min 4.07 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 6.35% of total time (compiled    2 times, average 4.24 sec, max 4.41 sec, min 4.07 sec)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: === Material stats ===
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Materials Translated:    165
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Material Translation Only: 0.08 s (42%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.03.12-17.58.38:396][ 93]LogShaderCompilers: Display: ================================================
+[2026.03.12-17.59.06:532][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13721.715820
+[2026.03.12-17.59.07:532][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-17.59.07:532][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13722.382812, Update Interval: 300.591461
+[2026.03.12-17.59.28:609][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.03.12-17.59.29:143][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.59.29:211][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-17.59.29:211][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-17.59.29:227][999]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-17.59.29:228][999]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint430554D04269227A23F59CAC3E312D6C.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-17.59.29:246][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.375 ms (total: 21.0 sec)
+[2026.03.12-17.59.29:327][999]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.59.29:327][999]LogContentValidation: Enabled validators:
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.59.29:327][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.59.29:327][999]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-17.59.55:038][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.03.12-17.59.55:557][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-17.59.55:627][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-17.59.55:628][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-17.59.55:643][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-17.59.55:644][ 77]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint78289DA84DEA40E1CBB1FB8E39DFAB65.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-17.59.55:658][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.020 ms (total: 21.1 sec)
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: Enabled validators:
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-17.59.55:741][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-17.59.55:741][ 77]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-18.00.16:787][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.00.16:863][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-18.00.16:863][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-18.00.16:879][437]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-18.00.16:880][437]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint822EDD1942A8C52998C563B7887D1171.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-18.00.16:898][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.059 ms (total: 21.3 sec)
+[2026.03.12-18.00.16:994][437]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.00.16:994][437]LogContentValidation: Enabled validators:
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.00.16:994][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.00.16:994][437]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-18.03.06:501][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2026.03.12-18.03.06:506][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2026.03.12-18.03.06:507][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-18.03.06:507][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-18.03.06:637][909]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.12-18.03.06:638][909]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto7D7F8CFE44FE79B7D7E799190E599E79B.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.12-18.03.26:462][ 31]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.03.38:103][137]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.03.43:956][676]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.04.01:410][891]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.04.21:627][106]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.04.44:505][ 27]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.04.50:714][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14065.991211
+[2026.03.12-18.04.50:878][396]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-18.04.50:878][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14066.147461, Update Interval: 326.472351
+[2026.03.12-18.05.36:019][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.03.12-18.05.36:726][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.05.36:817][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/Player/WBP_Objective] ([2] browsable assets)...
+[2026.03.12-18.05.36:819][898]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/Player/WBP_Objective.WBP_Objective]
+[2026.03.12-18.05.36:820][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Player/WBP_Objective]
+[2026.03.12-18.05.36:820][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Player/WBP_Objective" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset" SILENT=true
+[2026.03.12-18.05.36:838][898]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Player/WBP_Objective
+[2026.03.12-18.05.36:839][898]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/WBP_ObjectiveF8D0CC3F49DA4FCA98CDB4915A7083BC.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/Player/WBP_Objective.uasset'
+[2026.03.12-18.05.36:854][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.175 ms (total: 21.4 sec)
+[2026.03.12-18.05.36:932][898]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.05.36:932][898]LogContentValidation: Enabled validators:
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.05.36:932][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.05.36:932][898]AssetCheck: /Game/Blueprints/UI/Player/WBP_Objective Validating asset
+[2026.03.12-18.09.02:085][186]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.09.32:769][440]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.10.49:395][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14424.712891
+[2026.03.12-18.10.49:664][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-18.10.49:664][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14424.973633, Update Interval: 344.382446
+[2026.03.12-18.11.08:769][345]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.03.12-18.11.12:077][653]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.03.12-18.11.59:841][930]LogDerivedDataCache: C:/Users/jacky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.12-18.12.14:437][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.03.12-18.12.15:685][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.12.15:771][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-18.12.15:771][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-18.12.15:795][631]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-18.12.15:796][631]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint4788398C44D635B05CCA66877DBFCDC5.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-18.12.15:815][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.742 ms (total: 21.5 sec)
+[2026.03.12-18.12.15:902][631]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.12.15:902][631]LogContentValidation: Enabled validators:
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.12.15:902][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.12.15:902][631]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-18.13.03:334][175]LogEditorTransaction: Undo Move Node
+[2026.03.12-18.13.03:920][184]LogEditorTransaction: Undo Create Pin Link
+[2026.03.12-18.13.04:376][219]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.14.21:700][ 41]LogEditorTransaction: Undo Add Node
+[2026.03.12-18.17.14:475][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.03.12-18.17.15:060][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.17.15:144][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-18.17.15:144][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-18.17.15:173][535]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-18.17.15:174][535]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint2F2C8849441369BD00761893FC1B12DA.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-18.17.15:191][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.002 ms (total: 21.6 sec)
+[2026.03.12-18.17.15:276][535]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.17.15:276][535]LogContentValidation: Enabled validators:
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.17.15:276][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.17.15:276][535]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-18.17.19:452][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14814.720703
+[2026.03.12-18.17.20:453][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-18.17.20:453][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14815.387695, Update Interval: 333.263947
+[2026.03.12-18.17.38:562][942]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint_C
+[2026.03.12-18.17.38:562][942]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint_C
+[2026.03.12-18.17.38:563][942]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint as actor: BP_ObjectivePoint_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ObjectivePoint_C_0
+[2026.03.12-18.17.38:566][942]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint as actor: BP_ObjectivePoint_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ObjectivePoint_C_0
+[2026.03.12-18.17.39:341][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.03.12-18.17.39:366][982]LogEditorActor: Deleted 0 Actors (0.062 secs)
+[2026.03.12-18.17.39:373][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint_C
+[2026.03.12-18.17.39:373][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint_C
+[2026.03.12-18.17.39:378][982]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint as actor: BP_ObjectivePoint_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ObjectivePoint_C_UAID_9C6B0043AB9A3CC702_1116768204
+[2026.03.12-18.17.39:379][982]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Objective/BP_ObjectivePoint.BP_ObjectivePoint as actor: BP_ObjectivePoint_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ObjectivePoint_C_UAID_9C6B0043AB9A3CC702_1116768204
+[2026.03.12-18.17.40:246][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.03.12-18.17.40:260][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/W7/A480JDTOEARDO4Z773EWM8_Auto7
+[2026.03.12-18.17.40:260][ 31]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/A480JDTOEARDO4Z773EWM8_Auto75342A9914CFFF20188BAF18BC07F57A9.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/W7/A480JDTOEARDO4Z773EWM8_Auto7.uasset'
+[2026.03.12-18.17.40:261][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.051
+[2026.03.12-18.17.40:261][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2026.03.12-18.17.40:262][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-18.17.40:262][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-18.17.40:384][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.12-18.17.40:385][ 31]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter_Auto7AE14CD684AB173C3D79803901A5C9703.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.12-18.17.46:207][469]Cmd: TRANSACTION UNDO
+[2026.03.12-18.17.46:207][469]LogEditorTransaction: Undo Set Vector Property
+[2026.03.12-18.21.13:997][ 64]Cmd: TRANSACTION UNDO
+[2026.03.12-18.21.13:997][ 64]LogEditorTransaction: Undo Move Elements
+[2026.03.12-18.21.45:052][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Healing/BP_Medkit.BP_Medkit
+[2026.03.12-18.21.45:052][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.03.12-18.22.30:669][304]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.22.30:669][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.22.30:850][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.03.12-18.22.33:679][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.12-18.22.33:679][564]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.22.33:679][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.22.33:770][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.03.12-18.22.40:995][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Note.BP_Note
+[2026.03.12-18.22.40:997][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.03.12-18.22.46:644][695]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.22.46:644][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.22.46:741][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.03.12-18.22.53:315][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Note.BP_Note
+[2026.03.12-18.22.53:315][189]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.03.12-18.22.56:122][420]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.22.56:123][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.22.56:222][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.12-18.23.00:115][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseNote.BP_BaseNote
+[2026.03.12-18.23.00:116][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.03.12-18.23.46:119][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.03.12-18.23.46:615][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.23.46:703][394]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BaseNote] ([2] browsable assets)...
+[2026.03.12-18.23.46:703][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BaseNote]
+[2026.03.12-18.23.46:703][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseNote" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/BP_BaseNote.uasset" SILENT=true
+[2026.03.12-18.23.46:755][394]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BaseNote
+[2026.03.12-18.23.46:756][394]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_BaseNoteBFCD0F1B4CF7CC7C2CE6F68715A24AC7.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/BP_BaseNote.uasset'
+[2026.03.12-18.23.46:773][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.289 ms (total: 21.8 sec)
+[2026.03.12-18.23.46:860][394]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.23.46:860][394]LogContentValidation: Enabled validators:
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.23.46:860][394]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.23.46:860][394]AssetCheck: /Game/Blueprints/BP_BaseNote Validating asset
+[2026.03.12-18.23.48:407][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-18.23.48:419][510]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-18.23.48:419][510]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.12-18.23.48:421][510]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.302 ms (total: 41.167 ms)
+[2026.03.12-18.23.48:421][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-18.23.48:421][510]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.12-18.23.48:434][510]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.12-18.23.48:437][510]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.627 ms (total: 70.324 ms)
+[2026.03.12-18.23.48:437][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016129s)
+[2026.03.12-18.23.48:437][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.016184s)
+[2026.03.12-18.23.48:474][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.03.12-18.23.48:479][510]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.12-18.23.48:481][510]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-18.23.48:481][510]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-18.23.48:481][510]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-18.23.48:481][510]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-18.23.48:484][510]LogWorldPartition: Display: WorldPartition initialize took 2.849 ms (total: 1.25 sec)
+[2026.03.12-18.23.48:484][510]LogPlayLevel: PIE: World Init took: (0.005391s)
+[2026.03.12-18.23.48:485][510]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-18.23.48:485][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-18.23.48:485][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-18.23.48:485][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-18.23.48:485][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-18.23.48:485][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-18.23.48:488][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-18.23.48:515][510]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.12-18.23.48:516][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-18.23.48:516][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-18.23.48:516][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-18.23.48:516][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.03.12-18.23.48:517][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.03.12-18.23.48:520][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.03.12-18.23.48:520][510]LogInit: FAudioDevice initialized with ID 29.
+[2026.03.12-18.23.48:520][510]LogAudio: Display: Audio Device (ID: 29) registered with world 'Lvl_ThirdPerson'.
+[2026.03.12-18.23.48:520][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.03.12-18.23.48:520][510]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.12-18.23.48:530][510]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.12-18.23.48:535][510]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.12-18.23.48
+[2026.03.12-18.23.48:535][510]LogWorld: Bringing up level for play took: 0.005066
+[2026.03.12-18.23.48:539][510]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.12-18.23.48:550][510]PIE: Server logged in
+[2026.03.12-18.23.48:554][510]PIE: Play in editor total start time 0.135 seconds.
+[2026.03.12-18.23.48:579][511]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.12-18.23.52:294][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15207.564453
+[2026.03.12-18.23.52:463][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-18.23.52:463][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15207.724609, Update Interval: 312.407593
+[2026.03.12-18.23.56:480][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-18.23.56:480][239]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.12-18.23.56:480][239]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.23.56:481][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.23.56:482][239]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.12-18.23.56:494][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-18.23.56:501][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.23.56:537][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.12-18.23.56:537][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.12-18.23.56:537][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.03.12-18.23.56:540][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.03.12-18.23.56:546][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-18.23.56:551][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.03.12-18.23.56:647][240]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.12-18.24.06:043][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.24.06:145][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Objective/BP_ObjectivePoint] ([2] browsable assets)...
+[2026.03.12-18.24.06:146][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objective/BP_ObjectivePoint]
+[2026.03.12-18.24.06:172][109]LogSavePackage: Moving output files for package: /Game/Blueprints/Objective/BP_ObjectivePoint
+[2026.03.12-18.24.06:173][109]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ObjectivePoint148714D249643A44D036F2B54A32FE1E.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset'
+[2026.03.12-18.24.06:189][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.977 ms (total: 21.9 sec)
+[2026.03.12-18.24.06:275][109]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.24.06:275][109]LogContentValidation: Enabled validators:
+[2026.03.12-18.24.06:275][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.24.06:276][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.24.06:276][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.24.06:276][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.24.06:276][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.24.06:276][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.24.06:276][109]AssetCheck: /Game/Blueprints/Objective/BP_ObjectivePoint Validating asset
+[2026.03.12-18.24.06:816][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.03.12-18.24.08:731][292]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-18.24.08:743][292]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-18.24.08:743][292]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.12-18.24.08:744][292]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.168 ms (total: 42.335 ms)
+[2026.03.12-18.24.08:744][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-18.24.08:744][292]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.12-18.24.08:756][292]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.12-18.24.08:759][292]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.654 ms (total: 72.978 ms)
+[2026.03.12-18.24.08:759][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014550s)
+[2026.03.12-18.24.08:759][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.014589s)
+[2026.03.12-18.24.08:792][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.03.12-18.24.08:797][292]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.12-18.24.08:799][292]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-18.24.08:799][292]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-18.24.08:799][292]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-18.24.08:799][292]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-18.24.08:801][292]LogWorldPartition: Display: WorldPartition initialize took 2.811 ms (total: 1.25 sec)
+[2026.03.12-18.24.08:801][292]LogPlayLevel: PIE: World Init took: (0.004907s)
+[2026.03.12-18.24.08:802][292]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-18.24.08:802][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-18.24.08:803][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-18.24.08:803][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-18.24.08:803][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-18.24.08:803][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-18.24.08:805][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-18.24.08:829][292]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.12-18.24.08:829][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-18.24.08:830][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-18.24.08:830][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-18.24.08:830][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.03.12-18.24.08:830][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.03.12-18.24.08:834][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.03.12-18.24.08:834][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.03.12-18.24.08:834][292]LogInit: FAudioDevice initialized with ID 30.
+[2026.03.12-18.24.08:834][292]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lvl_ThirdPerson'.
+[2026.03.12-18.24.08:834][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.12-18.24.08:839][292]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.12-18.24.08:844][292]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.12-18.24.08
+[2026.03.12-18.24.08:844][292]LogWorld: Bringing up level for play took: 0.004495
+[2026.03.12-18.24.08:847][292]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.03.12-18.24.08:853][292]PIE: Server logged in
+[2026.03.12-18.24.08:856][292]PIE: Play in editor total start time 0.114 seconds.
+[2026.03.12-18.24.08:880][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.12-18.24.18:788][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-18.24.18:788][209]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.12-18.24.18:788][209]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-18.24.18:790][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.24.18:790][209]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.12-18.24.18:801][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-18.24.18:808][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-18.24.18:843][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-18.24.18:843][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.12-18.24.18:844][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.03.12-18.24.18:846][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.03.12-18.24.18:854][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.03.12-18.24.18:950][210]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.03.12-18.24.27:888][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.24.28:012][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.03.12-18.24.28:047][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.12-18.24.28:085][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.12-18.24.28:097][899]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/W7/A480JDTOEARDO4Z773EWM8
+[2026.03.12-18.24.28:097][899]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/A480JDTOEARDO4Z773EWM822C847E94FEA22FED05E5786F95D0195.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/W7/A480JDTOEARDO4Z773EWM8.uasset'
+[2026.03.12-18.24.28:116][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.267 ms (total: 22.2 sec)
+[2026.03.12-18.24.28:206][899]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.24.28:206][899]LogContentValidation: Enabled validators:
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.24.28:206][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.24.28:206][899]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.12-18.24.28:253][899]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.12-18.24.29:640][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.12-18.24.30:727][999]LogSlate: Window 'Save Content' being destroyed
+[2026.03.12-18.24.30:763][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-18.24.30:893][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.12-18.24.30:897][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.12-18.24.30:897][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.12-18.24.31:023][999]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.12-18.24.31:024][999]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacter98679341432242860CCE0EBF3317A33C.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.12-18.24.31:043][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.315 ms (total: 22.5 sec)
+[2026.03.12-18.24.31:143][999]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-18.24.31:143][999]LogContentValidation: Enabled validators:
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-18.24.31:143][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-18.24.31:143][999]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
