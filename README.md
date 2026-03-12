@@ -77,3 +77,11 @@ Flashlight
 https://freesound.org/people/LightYarn/sounds/173420/
 
 https://freesound.org/people/LightYarn/sounds/173419/
+
+Getting Hurt
+
+https://freesound.org/people/ajanhallinta/sounds/649543/
+
+https://freesound.org/people/dersuperanton/sounds/437650/
+
+https://freesound.org/people/dersuperanton/sounds/437651/
