@@ -95,3 +95,11 @@ Healing
 https://freesound.org/people/Frostnox/sounds/796014/
 
 https://freesound.org/people/Frostnox/sounds/796015/
+
+Icon
+
+https://www.flaticon.com/free-icon/health-care_154016?term=heart&page=2&position=6&origin=search&related_id=154016
+
+https://www.flaticon.com/free-icon/bin_484611?term=bin&page=1&position=5&origin=search&related_id=484611
+
+https://www.flaticon.com/free-icon/magnifier_64673?term=glass&page=1&position=4&origin=search&related_id=64673
