@@ -5469,3 +5469,403 @@ Sampler Limit: 32
 [2026.03.21-17.56.11:157][708]AssetCheck: /Game/Assets/Models/Car/Material_001_Roughness Validating asset
 [2026.03.21-17.56.11:157][708]AssetCheck: /Game/Assets/Models/Car/Tyre Validating asset
 [2026.03.21-17.56.11:182][708]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.21-17.57.17:653][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.21-17.57.44:062][313]Cmd: TRANSACTION UNDO
+[2026.03.21-17.57.44:062][313]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.36:717][197]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.36:717][197]LogEditorTransaction: Undo Clicking on Actors
+[2026.03.21-17.58.37:427][204]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.37:427][204]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-17.58.37:990][225]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.37:990][225]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-17.58.38:502][248]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.38:502][248]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.38:976][271]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.38:977][271]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.39:411][290]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.39:411][290]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.39:881][313]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.39:881][313]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.40:578][342]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.40:578][342]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.41:577][374]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.41:577][374]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.42:182][402]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.42:182][402]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.42:639][425]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.42:639][425]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.43:099][443]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.43:099][443]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.43:606][468]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.43:606][468]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.44:230][492]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.44:230][492]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.44:709][500]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.44:709][500]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.45:256][512]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.45:256][512]LogEditorTransaction: Undo Move Elements
+[2026.03.21-17.58.45:740][534]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.45:740][534]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.46:532][571]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.46:532][571]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.21-17.58.47:373][604]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.47:373][604]LogEditorTransaction: Undo Clicking on Actors
+[2026.03.21-17.58.48:322][643]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.48:322][643]LogEditorTransaction: Undo Clicking on Actors
+[2026.03.21-17.58.49:453][679]Cmd: TRANSACTION UNDO
+[2026.03.21-17.58.49:453][679]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-17.59.01:438][264]Cmd: TRANSACTION UNDO
+[2026.03.21-17.59.01:438][264]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-17.59.03:085][310]Cmd: TRANSACTION UNDO
+[2026.03.21-17.59.03:085][310]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-17.59.45:648][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-17.59.45:668][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-17.59.45:668][378]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.21-17.59.45:704][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037025s)
+[2026.03.21-17.59.45:704][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.037110s)
+[2026.03.21-17.59.45:742][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.21-17.59.45:749][378]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.21-17.59.45:751][378]LogPlayLevel: PIE: World Init took: (0.002139s)
+[2026.03.21-17.59.45:753][378]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-17.59.45:753][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-17.59.45:753][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-17.59.45:753][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-17.59.45:753][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-17.59.45:753][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-17.59.45:756][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-17.59.45:781][378]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.21-17.59.45:782][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-17.59.45:782][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-17.59.45:782][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-17.59.45:782][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.03.21-17.59.45:782][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.03.21-17.59.45:785][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.03.21-17.59.45:785][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.03.21-17.59.45:785][378]LogInit: FAudioDevice initialized with ID 20.
+[2026.03.21-17.59.45:785][378]LogAudio: Display: Audio Device (ID: 20) registered with world 'Forest'.
+[2026.03.21-17.59.45:786][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.21-17.59.45:790][378]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-17.59.45:820][378]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.21-17.59.45
+[2026.03.21-17.59.45:820][378]LogWorld: Bringing up level for play took: 0.029665
+[2026.03.21-17.59.45:823][378]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.03.21-17.59.45:832][378]PIE: Server logged in
+[2026.03.21-17.59.45:835][378]PIE: Play in editor total start time 0.168 seconds.
+[2026.03.21-17.59.45:904][379]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.21-17.59.49:884][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-17.59.49:884][542]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.21-17.59.49:884][542]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-17.59.49:889][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-17.59.49:891][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-17.59.49:900][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-17.59.49:943][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.21-17.59.49:943][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.21-17.59.49:943][542]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.03.21-17.59.49:945][542]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.03.21-17.59.49:952][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-17.59.49:970][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2026.03.21-17.59.50:067][543]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.03.21-17.59.51:735][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9518.763672
+[2026.03.21-17.59.51:925][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-17.59.51:925][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9518.935547, Update Interval: 323.048187
+[2026.03.21-17.59.53:758][701]Cmd: DELETE
+[2026.03.21-17.59.53:758][701]Cmd: ACTOR DELETE
+[2026.03.21-17.59.53:776][701]LogEditorActor: Deleted Actor: PointLight
+[2026.03.21-17.59.53:808][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.03.21-17.59.53:811][701]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.03.21-17.59.56:167][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-17.59.56:187][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-17.59.56:188][857]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.21-17.59.56:224][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036243s)
+[2026.03.21-17.59.56:224][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.036318s)
+[2026.03.21-17.59.56:261][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.03.21-17.59.56:264][857]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.21-17.59.56:267][857]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2026.03.21-17.59.56:268][857]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-17.59.56:268][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-17.59.56:268][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-17.59.56:268][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-17.59.56:268][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-17.59.56:268][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-17.59.56:271][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-17.59.56:297][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.21-17.59.56:297][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-17.59.56:297][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-17.59.56:297][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-17.59.56:298][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.03.21-17.59.56:298][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.03.21-17.59.56:301][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.03.21-17.59.56:301][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.03.21-17.59.56:301][857]LogInit: FAudioDevice initialized with ID 21.
+[2026.03.21-17.59.56:301][857]LogAudio: Display: Audio Device (ID: 21) registered with world 'Forest'.
+[2026.03.21-17.59.56:301][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.21-17.59.56:305][857]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-17.59.56:337][857]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.21-17.59.56
+[2026.03.21-17.59.56:338][857]LogWorld: Bringing up level for play took: 0.031417
+[2026.03.21-17.59.56:340][857]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.03.21-17.59.56:348][857]PIE: Server logged in
+[2026.03.21-17.59.56:351][857]PIE: Play in editor total start time 0.164 seconds.
+[2026.03.21-17.59.56:416][858]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.21-18.00.03:406][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.00.03:406][263]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.00.03:406][263]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-18.00.03:410][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.00.03:412][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-18.00.03:419][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.00.03:451][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.00.03:452][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.21-18.00.03:452][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.03.21-18.00.03:454][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.03.21-18.00.03:475][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.03.21-18.00.03:534][264]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.03.21-18.00.15:157][909]Cmd: DELETE
+[2026.03.21-18.00.15:157][909]Cmd: ACTOR DELETE
+[2026.03.21-18.00.15:171][909]LogEditorActor: Deleted Actor: PointLight
+[2026.03.21-18.00.15:215][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.21-18.00.15:219][909]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.03.21-18.00.23:828][366]Cmd: DELETE
+[2026.03.21-18.00.23:828][366]Cmd: ACTOR DELETE
+[2026.03.21-18.00.23:840][366]LogEditorActor: Deleted Actor: PointLight
+[2026.03.21-18.00.23:841][366]LogEditorActor: Deleted Actor: PointLight
+[2026.03.21-18.00.23:842][366]LogEditorActor: Deleted Actor: PointLight
+[2026.03.21-18.00.23:880][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.21-18.00.23:883][366]LogEditorActor: Deleted 3 Actors (0.055 secs)
+[2026.03.21-18.00.25:323][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-18.00.25:338][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-18.00.25:339][441]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.00.25:374][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035862s)
+[2026.03.21-18.00.25:374][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.035989s)
+[2026.03.21-18.00.25:410][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.03.21-18.00.25:412][441]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.21-18.00.25:414][441]LogPlayLevel: PIE: World Init took: (0.001957s)
+[2026.03.21-18.00.25:415][441]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-18.00.25:415][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-18.00.25:415][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-18.00.25:415][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-18.00.25:415][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-18.00.25:415][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-18.00.25:418][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-18.00.25:442][441]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.21-18.00.25:443][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-18.00.25:443][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-18.00.25:443][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-18.00.25:443][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.21-18.00.25:443][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.21-18.00.25:446][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.21-18.00.25:446][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.21-18.00.25:446][441]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.21-18.00.25:446][441]LogAudio: Display: Audio Device (ID: 22) registered with world 'Forest'.
+[2026.03.21-18.00.25:447][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.21-18.00.25:451][441]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-18.00.25:480][441]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.21-18.00.25
+[2026.03.21-18.00.25:480][441]LogWorld: Bringing up level for play took: 0.029303
+[2026.03.21-18.00.25:483][441]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.03.21-18.00.25:492][441]PIE: Server logged in
+[2026.03.21-18.00.25:494][441]PIE: Play in editor total start time 0.157 seconds.
+[2026.03.21-18.00.25:548][442]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.21-18.00.39:408][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.00.39:408][308]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.00.39:408][308]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-18.00.39:412][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.00.39:414][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-18.00.39:422][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.00.39:454][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.21-18.00.39:454][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.21-18.00.39:454][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.03.21-18.00.39:456][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.03.21-18.00.39:463][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.00.39:478][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.03.21-18.00.39:532][309]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.03.21-18.04.12:670][983]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.12:670][983]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.12:671][983]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_0
+[2026.03.21-18.04.12:676][983]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_0
+[2026.03.21-18.04.12:889][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.03.21-18.04.12:898][989]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.03.21-18.04.31:570][878]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.31:570][878]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.31:570][878]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_1
+[2026.03.21-18.04.31:571][878]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_1
+[2026.03.21-18.04.32:670][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.21-18.04.32:674][933]LogEditorActor: Deleted 0 Actors (0.053 secs)
+[2026.03.21-18.04.32:684][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.32:684][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.03.21-18.04.32:685][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_2
+[2026.03.21-18.04.32:686][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Level/Forest.Forest:PersistentLevel.PostProcessVolume_2
+[2026.03.21-18.05.52:402][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9879.413086
+[2026.03.21-18.05.53:402][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-18.05.53:402][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9880.079102, Update Interval: 355.207977
+[2026.03.21-18.06.05:837][714]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-18.06.05:852][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-18.06.05:877][714]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.06.05:912][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034923s)
+[2026.03.21-18.06.05:912][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.034999s)
+[2026.03.21-18.06.05:945][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.03.21-18.06.05:950][714]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.21-18.06.05:953][714]LogPlayLevel: PIE: World Init took: (0.002181s)
+[2026.03.21-18.06.05:954][714]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-18.06.05:954][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-18.06.05:954][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-18.06.05:954][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-18.06.05:954][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-18.06.05:954][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-18.06.05:957][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-18.06.05:983][714]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.21-18.06.05:984][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-18.06.05:984][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-18.06.05:984][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-18.06.05:984][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.21-18.06.05:984][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.21-18.06.05:987][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.21-18.06.05:987][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.21-18.06.05:987][714]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.21-18.06.05:987][714]LogAudio: Display: Audio Device (ID: 23) registered with world 'Forest'.
+[2026.03.21-18.06.05:987][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.21-18.06.05:993][714]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-18.06.06:023][714]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.21-18.06.06
+[2026.03.21-18.06.06:023][714]LogWorld: Bringing up level for play took: 0.029652
+[2026.03.21-18.06.06:026][714]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.03.21-18.06.06:035][714]PIE: Server logged in
+[2026.03.21-18.06.06:037][714]PIE: Play in editor total start time 0.185 seconds.
+[2026.03.21-18.06.06:091][714]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.21-18.06.13:344][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.06.13:344][135]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.06.13:345][135]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-18.06.13:348][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.06.13:350][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-18.06.13:358][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.06.13:389][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.06.13:390][135]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.21-18.06.13:390][135]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.03.21-18.06.13:392][135]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.03.21-18.06.13:412][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.03.21-18.06.13:637][136]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.03.21-18.06.36:221][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-18.06.36:235][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-18.06.36:235][843]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.06.36:273][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039042s)
+[2026.03.21-18.06.36:274][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.039126s)
+[2026.03.21-18.06.36:311][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.03.21-18.06.36:313][843]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.21-18.06.36:315][843]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2026.03.21-18.06.36:317][843]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-18.06.36:317][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-18.06.36:317][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-18.06.36:317][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-18.06.36:317][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-18.06.36:317][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-18.06.36:320][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-18.06.36:346][843]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.21-18.06.36:346][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-18.06.36:346][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-18.06.36:346][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-18.06.36:346][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.03.21-18.06.36:346][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.03.21-18.06.36:350][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.03.21-18.06.36:350][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.03.21-18.06.36:350][843]LogInit: FAudioDevice initialized with ID 24.
+[2026.03.21-18.06.36:350][843]LogAudio: Display: Audio Device (ID: 24) registered with world 'Forest'.
+[2026.03.21-18.06.36:350][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.21-18.06.36:355][843]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-18.06.36:386][843]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.21-18.06.36
+[2026.03.21-18.06.36:386][843]LogWorld: Bringing up level for play took: 0.030706
+[2026.03.21-18.06.36:389][843]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.03.21-18.06.36:397][843]PIE: Server logged in
+[2026.03.21-18.06.36:400][843]PIE: Play in editor total start time 0.166 seconds.
+[2026.03.21-18.06.36:458][843]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.21-18.06.42:327][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.06.42:327][210]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.21-18.06.42:327][210]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-18.06.42:333][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.06.42:335][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-18.06.42:342][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.06.42:372][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-18.06.42:373][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.21-18.06.42:373][210]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.03.21-18.06.42:375][210]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.03.21-18.06.42:411][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2026.03.21-18.06.42:637][211]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.03.21-18.07.08:365][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2026.03.21-18.07.08:371][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Forest" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/Level/Forest_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.03.21-18.07.08:704][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Forest_Auto5
+[2026.03.21-18.07.08:706][314]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Forest_Auto5B94B487E43D9F37F3597ECAFDB42F1CB.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Autosaves/Game/Level/Forest_Auto5.umap'
+[2026.03.21-18.07.08:712][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Forest' took 0.429
+[2026.03.21-18.07.08:712][314]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.429
+[2026.03.21-18.11.05:960][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.21-18.11.12:041][695]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.21-18.11.15:344][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnimaNotify/BP_Footstep_Notify.BP_Footstep_Notify
+[2026.03.21-18.11.15:344][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.21-18.11.29:543][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.03.21-18.11.30:656][164]LogSlate: Window 'Save Content' being destroyed
+[2026.03.21-18.11.30:698][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-18.11.30:762][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Forest" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.21-18.11.30:838][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.21-18.11.31:052][164]LogSavePackage: Moving output files for package: /Game/Level/Forest
+[2026.03.21-18.11.31:053][164]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/ForestEDF484AD4BBCC3D0C90DFB9E23F80FB7.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap'
+[2026.03.21-18.11.31:077][164]LogFileHelpers: Saving map 'Forest' took 0.316
+[2026.03.21-18.11.31:091][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 393.816 ms (total: 14.5 sec)
+[2026.03.21-18.11.31:160][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-18.11.31:160][164]LogContentValidation: Enabled validators:
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-18.11.31:160][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-18.11.31:160][164]AssetCheck: /Game/Level/Forest Validating asset
+[2026.03.21-18.11.36:875][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.03.21-18.11.37:117][457]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.21-18.11.40:447][457]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.21-18.11.42:296][457]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-18.11.42:296][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-18.11.42:333][457]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AnimaNotify/BP_Footstep_Notify.BP_Footstep_Notify
+	Asset Type: Blueprint
+[2026.03.21-18.11.43:488][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.03.21-18.11.43:526][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.03.21-18.11.43:562][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.21-18.11.43:629][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.21-18.11.52:955][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.21-18.11.58:401][986]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.21-18.11.58:482][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.21-18.11.58:514][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.21-18.11.58:548][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
