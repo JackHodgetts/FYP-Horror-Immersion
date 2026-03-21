@@ -16,8 +16,6 @@ Downloaded Assets:
 
 https://sketchfab.com/3d-models/stylized-tree-stump-04d51f5c2fb643aab3b93b451d1b77c9
 
-https://sketchfab.com/3d-models/wooden-logs-asset-pack-441fb13a0bf24f9aa8c4a219e5ab9be3
-
 https://sketchfab.com/3d-models/cabin-b02b8de5e8374fa182d2561275177320 - Removed wood on window for gameplay purposes
 
 https://sketchfab.com/3d-models/tent-79b6315d09384e8180e40e179568915b
@@ -32,49 +30,31 @@ https://sketchfab.com/3d-models/first-aid-box-1427d011f6ea4ad89f377380f379698e
 
 https://sketchfab.com/3d-models/bandage-roll-dd33fad87aec468daeb0398ea4a6389f
 
+https://sketchfab.com/3d-models/camp-fire-de87de376ed24bf5ad2ef06a2a4a6ed5
+
+https://sketchfab.com/3d-models/lantern-f0b0ea89f20b4f10bb583c449ae04d9c
+
+https://sketchfab.com/3d-models/tent-979c0784868b4fdeb2b4563f65e0b5b4
+
+https://sketchfab.com/3d-models/lowpoly-shed-c7a5f5f7f15e4225a7e107faf9d44235
+
+https://sketchfab.com/3d-models/wrecked-low-poly-jeep-2eac845c901844de82fc2c53cd19d07c
+
+https://sketchfab.com/3d-models/wrecked-low-poly-jeep-2eac845c901844de82fc2c53cd19d07c
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
 
 Sounds
 
-Dirt
+https://freesound.org/people/Ali_6868/sounds/384894/
 
-https://freesound.org/people/simonjeffery13/sounds/750795/?
+https://freesound.org/people/Fission9/sounds/567220/
 
-https://freesound.org/people/Yoyodaman234/sounds/223153/
+https://freesound.org/people/Lasdimot/sounds/405515/
 
-https://freesound.org/people/SecureSubset/sounds/813621/
-
-https://freesound.org/people/nuFF3/sounds/477395/
-
-https://freesound.org/people/HenKonen/sounds/682127/
-
-https://freesound.org/people/lzmraul/sounds/389454/
-
-Carpet
-
-https://freesound.org/people/myrararara/sounds/412781/
-
-https://freesound.org/people/myrararara/sounds/412782/
-
-https://freesound.org/people/myrararara/sounds/412788/
-
-https://freesound.org/people/theshuggie/sounds/371017/
-
-https://freesound.org/people/theshuggie/sounds/371017/
-
-Metal
-
-https://freesound.org/people/soundmary/sounds/194978/
-
-https://freesound.org/people/gristi/sounds/562195/
-
-https://opengameart.org/content/flashlight-pattern-incandescent
-
-https://freesound.org/people/nate_asdfg/sounds/463811/
-
-https://freesound.org/people/IENBA/sounds/834029/
+https://freesound.org/people/Ali_6868/sounds/384865/
 
 Flashlight
 
