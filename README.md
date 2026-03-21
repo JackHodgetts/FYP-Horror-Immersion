@@ -42,6 +42,8 @@ https://sketchfab.com/3d-models/wrecked-low-poly-jeep-2eac845c901844de82fc2c53cd
 
 https://sketchfab.com/3d-models/wrecked-low-poly-jeep-2eac845c901844de82fc2c53cd19d07c
 
+https://sketchfab.com/3d-models/free-stylized-dark-fantasy-zombie-v1-9e8ec26242d3467ca75314a84c43eb24
+
 I used code things to help me make some of my horror mechanics
 
 https://www.youtube.com/@codethings/videos
