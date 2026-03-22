@@ -15049,3 +15049,48 @@ Script call stack:
 [2026.03.22-20.01.05:860][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29323.300781
 [2026.03.22-20.01.06:861][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.22-20.01.06:861][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29323.966797, Update Interval: 338.127380
+[2026.03.22-20.07.18:370][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29695.937500
+[2026.03.22-20.07.19:371][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-20.07.19:371][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29696.605469, Update Interval: 352.089600
+[2026.03.22-20.14.08:760][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30106.457031
+[2026.03.22-20.14.09:759][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-20.14.09:759][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30107.125000, Update Interval: 351.055023
+[2026.03.22-20.20.39:137][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30496.980469
+[2026.03.22-20.20.40:135][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-20.20.40:135][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30497.646484, Update Interval: 352.210449
+[2026.03.22-20.27.12:522][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30890.484375
+[2026.03.22-20.27.13:522][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-20.27.13:522][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30891.150391, Update Interval: 311.706299
+[2026.03.22-20.33.15:978][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31254.037109
+[2026.03.22-20.33.16:195][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-20.33.16:195][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31254.228516, Update Interval: 343.327728
+[2026.03.22-20.33.18:862][192]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2026.03.22-20.33.20:180][192]LogSlate: Window 'Save Content' being destroyed
+[2026.03.22-20.33.20:198][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-20.33.20:291][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Forest" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.22-20.33.20:395][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-20.33.20:672][192]LogSavePackage: Moving output files for package: /Game/Level/Forest
+[2026.03.22-20.33.20:673][192]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Forest4BEE0FC245CF3F03128B07826BAF34BA.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap'
+[2026.03.22-20.33.20:704][192]LogFileHelpers: Saving map 'Forest' took 0.415
+[2026.03.22-20.33.20:705][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2026.03.22-20.33.20:705][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2026.03.22-20.33.20:705][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/BP_AI.uasset" SILENT=true
+[2026.03.22-20.33.20:735][192]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2026.03.22-20.33.20:737][192]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_AIC828C6E447B5F35CC37B9BBDB073E768.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/BP_AI.uasset'
+[2026.03.22-20.33.20:739][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.22-20.33.20:807][192]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.22-20.33.20:808][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.22-20.33.20:982][192]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.22-20.33.20:983][192]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_ThirdPersonCharacterE9BE41DA471A021E3C59B18B93AB59D8.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.22-20.33.21:004][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 805.665 ms (total: 32.8 sec)
+[2026.03.22-20.33.21:120][192]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.22-20.33.21:120][192]LogContentValidation: Enabled validators:
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-20.33.21:120][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-20.33.21:120][192]AssetCheck: /Game/Level/Forest Validating asset
+[2026.03.22-20.33.21:120][192]AssetCheck: /Game/AI/BP_AI Validating asset
+[2026.03.22-20.33.21:121][192]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
