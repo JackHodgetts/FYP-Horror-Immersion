@@ -2131,3 +2131,372 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.23-10.16.48:100][678]LogTexture: Display: Building textures: /Game/Assets/Models/Tower/tower_Base_Color.tower_Base_Color (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
 [2026.03.23-10.16.48:156][679]LogTexture: Display: Building textures: /Game/Assets/Models/Tent/Tent_normal.Tent_normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1189.499988 MB), EncodeSpeed: Fast
 [2026.03.23-10.16.48:162][679]LogTexture: Display: Building textures: /Game/Assets/Models/Tent/Tent_baseColor.Tent_baseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.23-10.16.50:751][686]LogSlate: Window 'Medkit' being destroyed
+[2026.03.23-10.16.50:798][686]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-10.16.50:798][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.16.50:832][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: ================================================
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Total job queries 819, among them cache hits 178 (21.73%), DDC hits 466 (56.90%), Duplicates 94 (11.48%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Tracking 547 distinct input hashes that result in 423 distinct outputs (77.33%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: RAM used: 5.26 MiB of 1.60 GiB budget. Usage: 0.32%
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Shaders Compiled: 81
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Jobs assigned 81, completed 81 (100%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Average time worker was idle: 187.71 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Time job spent in pending queue: average 1.31 s, longest 3.75 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 3.32 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Job life time (pending + execution): average 2.51 s, max 5.20
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Shader code size: total 940.82 KiB, numShaders 89, average 10.57 KiB, min 3.668 KiB, max 20.582 KiB
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.21 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Jobs were issued in 81 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Average processing rate: 7.93 jobs/sec
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Total thread time: 75.565 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Total thread preprocess time: 11.586 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Percentage time preprocessing: 15.33%
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Effective parallelization: 7.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.528507
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    7 times, average 2.14 sec, max 2.55 sec, min 1.28 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    7 times, average 1.70 sec, max 2.07 sec, min 1.05 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.55 sec, max 1.81 sec, min 1.16 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 1.25 sec, max 1.39 sec, min 0.73 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 0.83 sec, max 0.96 sec, min 0.71 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 19.81% of total time (compiled    7 times, average 2.14 sec, max 2.55 sec, min 1.28 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.73% of total time (compiled    7 times, average 1.70 sec, max 2.07 sec, min 1.05 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.58% of total time (compiled    7 times, average 1.25 sec, max 1.39 sec, min 0.73 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.18% of total time (compiled    4 times, average 1.55 sec, max 1.81 sec, min 1.16 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.62% of total time (compiled    7 times, average 0.61 sec, max 0.76 sec, min 0.30 sec)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: === Material stats ===
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Materials Translated:    232
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: Material Cache Hits: 25 (11%)
+[2026.03.23-10.17.58:119][734]LogShaderCompilers: Display: ================================================
+[2026.03.23-10.18.06:455][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-10.18.06:464][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-10.18.06:464][759]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.18.06:498][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033657s)
+[2026.03.23-10.18.06:498][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.033691s)
+[2026.03.23-10.18.06:519][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.23-10.18.06:521][759]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.23-10.18.06:522][759]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2026.03.23-10.18.06:523][759]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-10.18.06:523][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-10.18.06:523][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-10.18.06:523][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-10.18.06:523][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-10.18.06:523][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-10.18.06:525][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-10.18.06:540][759]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.23-10.18.06:540][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-10.18.06:540][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-10.18.06:540][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-10.18.06:540][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.23-10.18.06:540][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.23-10.18.06:542][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.23-10.18.06:542][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.23-10.18.06:542][759]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.23-10.18.06:542][759]LogAudio: Display: Audio Device (ID: 8) registered with world 'Forest'.
+[2026.03.23-10.18.06:542][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.23-10.18.06:546][759]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-10.18.06:564][759]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.23-10.18.06
+[2026.03.23-10.18.06:564][759]LogWorld: Bringing up level for play took: 0.018370
+[2026.03.23-10.18.06:566][759]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.03.23-10.18.06:572][759]PIE: Server logged in
+[2026.03.23-10.18.06:574][759]PIE: Play in editor total start time 0.11 seconds.
+[2026.03.23-10.18.06:607][760]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.23-10.18.17:437][366]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.23-10.18.17:437][366]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.18.17:437][366]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.23-10.18.19:575][481]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.18.19:575][481]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.18.20:321][521]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.18.20:321][521]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.23-10.18.22:249][629]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.18.22:249][629]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.18.24:046][732]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.18.24:046][732]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.23-10.18.25:643][836]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.18.25:643][836]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.19.20:391][977]LogBlueprintUserMessages: [BP_Note_C_1] +1
+[2026.03.23-10.20.16:870][195]LogBlueprintUserMessages: [BP_Note_C_2] +1
+[2026.03.23-10.20.38:569][452]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.20.38:569][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.23-10.20.43:068][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.20.43:068][707]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.20.43:068][707]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.23-10.20.43:069][707]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-10.20.43:071][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.20.43:079][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-10.20.43:084][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.20.43:107][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.23-10.20.43:108][707]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.23-10.20.43:108][707]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.03.23-10.20.43:110][707]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.03.23-10.20.43:115][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.20.43:123][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.23-10.20.43:168][708]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.03.23-10.20.45:668][851]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: ================================================
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Total job queries 827, among them cache hits 182 (22.01%), DDC hits 466 (56.35%), Duplicates 95 (11.49%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Tracking 550 distinct input hashes that result in 426 distinct outputs (77.45%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: RAM used: 5.28 MiB of 1.60 GiB budget. Usage: 0.32%
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Shaders Compiled: 84
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Jobs assigned 84, completed 84 (100%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Average time worker was idle: 186.64 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Time job spent in pending queue: average 1.27 s, longest 3.75 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 3.32 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Job life time (pending + execution): average 2.44 s, max 5.20
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Shader code size: total 961.223 KiB, numShaders 92, average 10.447 KiB, min 3.668 KiB, max 20.582 KiB
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.54 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Jobs were issued in 84 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Average processing rate: 7.28 jobs/sec
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Total thread time: 76.38 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Total thread preprocess time: 11.657 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Percentage time preprocessing: 15.26%
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Effective parallelization: 6.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.472671
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    7 times, average 2.14 sec, max 2.55 sec, min 1.28 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    7 times, average 1.70 sec, max 2.07 sec, min 1.05 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.55 sec, max 1.81 sec, min 1.16 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 1.16 sec, max 1.39 sec, min 0.54 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 0.83 sec, max 0.96 sec, min 0.71 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 19.59% of total time (compiled    7 times, average 2.14 sec, max 2.55 sec, min 1.28 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.56% of total time (compiled    7 times, average 1.70 sec, max 2.07 sec, min 1.05 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.16% of total time (compiled    8 times, average 1.16 sec, max 1.39 sec, min 0.54 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.10% of total time (compiled    4 times, average 1.55 sec, max 1.81 sec, min 1.16 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.56% of total time (compiled    7 times, average 0.61 sec, max 0.76 sec, min 0.30 sec)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: === Material stats ===
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Materials Translated:    232
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: Material Cache Hits: 25 (11%)
+[2026.03.23-10.20.58:127][677]LogShaderCompilers: Display: ================================================
+[2026.03.23-10.21.09:089][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-10.21.09:097][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-10.21.09:137][417]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.21.09:173][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035231s)
+[2026.03.23-10.21.09:173][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.035275s)
+[2026.03.23-10.21.09:197][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.23-10.21.09:199][417]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.23-10.21.09:201][417]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2026.03.23-10.21.09:201][417]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-10.21.09:201][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-10.21.09:201][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-10.21.09:201][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-10.21.09:201][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-10.21.09:201][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-10.21.09:204][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-10.21.09:219][417]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.23-10.21.09:220][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-10.21.09:220][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-10.21.09:220][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-10.21.09:220][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.03.23-10.21.09:220][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.03.23-10.21.09:222][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.03.23-10.21.09:222][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.03.23-10.21.09:222][417]LogInit: FAudioDevice initialized with ID 9.
+[2026.03.23-10.21.09:222][417]LogAudio: Display: Audio Device (ID: 9) registered with world 'Forest'.
+[2026.03.23-10.21.09:222][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.23-10.21.09:225][417]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-10.21.09:245][417]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.23-10.21.09
+[2026.03.23-10.21.09:245][417]LogWorld: Bringing up level for play took: 0.019358
+[2026.03.23-10.21.09:247][417]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.03.23-10.21.09:253][417]PIE: Server logged in
+[2026.03.23-10.21.09:255][417]PIE: Play in editor total start time 0.158 seconds.
+[2026.03.23-10.21.09:291][418]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.23-10.21.17:429][952]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.23-10.21.17:429][952]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.21.17:429][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.23-10.21.19:424][ 94]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.21.19:424][ 94]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.21.22:788][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.21.22:788][308]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.21.22:788][308]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.23-10.21.22:789][308]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-10.21.22:792][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.21.22:802][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-10.21.22:805][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.21.22:828][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.21.22:828][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.23-10.21.22:828][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.03.23-10.21.22:830][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.03.23-10.21.22:844][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.23-10.21.22:898][309]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.03.23-10.21.35:715][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-10.21.35:725][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-10.21.35:748][995]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.21.35:783][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035556s)
+[2026.03.23-10.21.35:783][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.035602s)
+[2026.03.23-10.21.35:801][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.23-10.21.35:803][995]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.23-10.21.35:805][995]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2026.03.23-10.21.35:805][995]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-10.21.35:805][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-10.21.35:805][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-10.21.35:805][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-10.21.35:805][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-10.21.35:805][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-10.21.35:808][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-10.21.35:824][995]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.23-10.21.35:824][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-10.21.35:824][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-10.21.35:824][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-10.21.35:824][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.23-10.21.35:824][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.23-10.21.35:826][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.23-10.21.35:826][995]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.23-10.21.35:826][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.23-10.21.35:826][995]LogAudio: Display: Audio Device (ID: 10) registered with world 'Forest'.
+[2026.03.23-10.21.35:826][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.23-10.21.35:829][995]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-10.21.35:848][995]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.23-10.21.35
+[2026.03.23-10.21.35:849][995]LogWorld: Bringing up level for play took: 0.018941
+[2026.03.23-10.21.35:851][995]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.03.23-10.21.35:857][995]PIE: Server logged in
+[2026.03.23-10.21.35:859][995]PIE: Play in editor total start time 0.134 seconds.
+[2026.03.23-10.21.35:897][996]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.23-10.21.42:887][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1310.578003
+[2026.03.23-10.21.42:976][471]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.23-10.21.42:976][471]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.21.42:976][471]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.23-10.21.43:193][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.21.43:193][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1310.870239, Update Interval: 315.450897
+[2026.03.23-10.21.43:460][508]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.21.43:460][508]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.21.44:908][616]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.21.44:908][616]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.23-10.21.49:389][975]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.21.49:389][975]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.21.51:138][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.21.51:138][ 88]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.21.51:138][ 88]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.23-10.21.51:139][ 88]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-10.21.51:143][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.21.51:146][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-10.21.51:148][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.21.51:171][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.21.51:172][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.23-10.21.51:172][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.03.23-10.21.51:174][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.03.23-10.21.51:187][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.23-10.21.51:240][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.03.23-10.22.02:096][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-10.22.02:106][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-10.22.02:106][715]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.22.02:144][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037352s)
+[2026.03.23-10.22.02:144][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.037383s)
+[2026.03.23-10.22.02:166][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.23-10.22.02:167][715]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.03.23-10.22.02:170][715]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2026.03.23-10.22.02:171][715]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-10.22.02:171][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-10.22.02:171][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-10.22.02:171][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-10.22.02:171][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-10.22.02:171][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-10.22.02:173][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-10.22.02:189][715]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.23-10.22.02:189][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-10.22.02:189][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-10.22.02:189][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-10.22.02:190][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.23-10.22.02:190][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.23-10.22.02:192][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.23-10.22.02:192][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.23-10.22.02:192][715]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.23-10.22.02:192][715]LogAudio: Display: Audio Device (ID: 11) registered with world 'Forest'.
+[2026.03.23-10.22.02:192][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.23-10.22.02:195][715]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-10.22.02:214][715]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.03.23-10.22.02
+[2026.03.23-10.22.02:215][715]LogWorld: Bringing up level for play took: 0.019732
+[2026.03.23-10.22.02:217][715]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.03.23-10.22.02:223][715]PIE: Server logged in
+[2026.03.23-10.22.02:225][715]PIE: Play in editor total start time 0.12 seconds.
+[2026.03.23-10.22.02:265][716]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.23-10.22.11:567][288]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.23-10.22.11:567][288]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.22.11:567][288]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.23-10.22.12:442][337]LogCharacterMovement: BP_AI_C_5 is stuck and failed to move! Velocity: X=-299.26 Y=21.01 Z=0.00 Location: X=3619.39 Y=-3999.10 Z=356.35 Normal: X=0.01 Y=-1.00 Z=0.07 PenetrationDepth:1.630 Actor:PCGVolume_1 Component:ISM_SM_Stylized_Tree_Maple_04_0 BoneName:None (0 other events since notify)
+[2026.03.23-10.22.13:277][384]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.22.13:277][384]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.22.15:716][522]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.23-10.22.15:716][522]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.23-10.22.17:929][647]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.23-10.22.17:929][647]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.23-10.22.19:178][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.22.19:178][725]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.03.23-10.22.19:178][725]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.23-10.22.19:180][725]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-10.22.19:182][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.22.19:187][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-10.22.19:189][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-10.22.19:209][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-10.22.19:210][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.23-10.22.19:210][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.03.23-10.22.19:212][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.03.23-10.22.19:224][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.23-10.22.19:278][726]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.03.23-10.22.22:608][943]Cmd: EDIT COPY
+[2026.03.23-10.22.22:776][954]Cmd: EDIT PASTE
+[2026.03.23-10.22.24:494][ 37]Cmd: EDIT COPY
+[2026.03.23-10.22.24:642][ 47]Cmd: EDIT PASTE
+[2026.03.23-10.22.26:353][151]Cmd: EDIT PASTE
+[2026.03.23-10.22.36:325][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.22.36:408][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Forest" FILE="../../../../../../Git/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.23-10.22.36:456][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.23-10.22.36:650][704]LogSavePackage: Moving output files for package: /Game/Level/Forest
+[2026.03.23-10.22.36:650][704]LogSavePackage: Moving '../../../../../../Git/FYP-Horror-Immersion/Horror_Game/Saved/Forest807019D24FA1271E85086886E1A4C8C9.tmp' to '../../../../../../Git/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap'
+[2026.03.23-10.22.36:666][704]LogFileHelpers: Saving map 'Forest' took 0.258
+[2026.03.23-10.22.36:670][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 346.294 ms (total: 741.712 ms)
+[2026.03.23-10.22.36:725][704]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.22.36:725][704]LogContentValidation: Enabled validators:
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.22.36:725][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.22.36:725][704]AssetCheck: /Game/Level/Forest Validating asset
