@@ -8,6 +8,8 @@
 				"C:/Git/FYP-Horror-Immersion/Horror_Game/Content/Assets/Models/Medkit/Screenshot_2026-03-23_101302.uasset",
 				"C:/Git/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap",
 				"C:/Git/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Items/BP_KIt.uasset",
+				"C:/Git/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/UI/WBP_ItemSlot.uasset",
+				"C:/Git/FYP-Horror-Immersion/Horror_Game/Content/Blueprints/Objective/BP_ObjectivePoint.uasset",
 				"C:/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/IMC_Default.uasset",
 				"C:/GitHub/FYP-Horror-Immersion/Horror_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/GitHub/FYP-Horror-Immersion/Horror_Game/Content/Input/Actions/IA_Sprint.uasset",
