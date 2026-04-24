@@ -13262,3 +13262,1158 @@ JSON(
 [2026.04.24-17.23.04:862][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13025.019531
 [2026.04.24-17.23.05:864][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.24-17.23.05:864][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13025.688477, Update Interval: 358.055359
+[2026.04.24-17.24.11:263][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.24-17.24.11:336][849]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.24-17.24.28:055][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.04.24-17.24.28:721][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.24-17.24.28:804][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Jumpscare/BP_Zombie_Jumpscare] ([2] browsable assets)...
+[2026.04.24-17.24.28:838][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Jumpscare/BP_Zombie_Jumpscare.BP_Zombie_Jumpscare]
+[2026.04.24-17.24.28:838][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Jumpscare/BP_Zombie_Jumpscare]
+[2026.04.24-17.24.28:838][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Jumpscare/BP_Zombie_Jumpscare" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/Jumpscare/BP_Zombie_Jumpscare.uasset" SILENT=true
+[2026.04.24-17.24.28:851][217]LogSavePackage: Moving output files for package: /Game/AI/Jumpscare/BP_Zombie_Jumpscare
+[2026.04.24-17.24.28:853][217]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_Zombie_Jumpscare94BA15EB465F10BAE33E72B017F12C98.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/Jumpscare/BP_Zombie_Jumpscare.uasset'
+[2026.04.24-17.24.28:865][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.216 ms (total: 6.36 sec)
+[2026.04.24-17.24.28:937][217]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.24-17.24.28:937][217]LogContentValidation: Enabled validators:
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.24-17.24.28:937][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.24-17.24.28:937][217]AssetCheck: /Game/AI/Jumpscare/BP_Zombie_Jumpscare Validating asset
+[2026.04.24-17.24.30:402][280]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.24-17.24.30:428][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.24-17.24.30:430][280]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.04.24-17.24.30:490][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060883s)
+[2026.04.24-17.24.30:490][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.060948s)
+[2026.04.24-17.24.30:530][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.04.24-17.24.30:535][280]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.04.24-17.24.30:537][280]LogPlayLevel: PIE: World Init took: (0.002276s)
+[2026.04.24-17.24.30:538][280]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.24-17.24.30:538][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.24-17.24.30:538][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.24-17.24.30:538][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.24-17.24.30:538][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.24-17.24.30:538][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.24-17.24.30:540][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.24-17.24.30:566][280]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.04.24-17.24.30:567][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.24-17.24.30:567][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.24-17.24.30:567][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.24-17.24.30:567][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.04.24-17.24.30:567][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.04.24-17.24.30:570][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.04.24-17.24.30:570][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.04.24-17.24.30:570][280]LogInit: FAudioDevice initialized with ID 35.
+[2026.04.24-17.24.30:570][280]LogAudio: Display: Audio Device (ID: 35) registered with world 'Forest'.
+[2026.04.24-17.24.30:570][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.04.24-17.24.30:574][280]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.24-17.24.30:609][280]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.04.24-18.24.30
+[2026.04.24-17.24.30:610][280]LogWorld: Bringing up level for play took: 0.035042
+[2026.04.24-17.24.30:613][280]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.04.24-17.24.30:623][280]PIE: Server logged in
+[2026.04.24-17.24.30:625][280]PIE: Play in editor total start time 0.207 seconds.
+[2026.04.24-17.24.30:675][280]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.24-17.24.33:343][406]LogBlueprintUserMessages: [BP_AI_C_1] Teleported
+[2026.04.24-17.24.33:343][406]LogBlueprintUserMessages: [BP_AI_C_0] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_2] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_3] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_4] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_5] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_6] Teleported
+[2026.04.24-17.24.33:344][406]LogBlueprintUserMessages: [BP_AI_C_7] Teleported
+[2026.04.24-17.24.34:163][440]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:229][443]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:435][452]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:456][452]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:483][454]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:504][454]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:530][456]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:549][456]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:574][458]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:596][459]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:622][460]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:641][461]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:668][462]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:687][463]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:713][464]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:732][465]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:757][466]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:775][467]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:800][468]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:818][468]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:845][470]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:864][471]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:890][472]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:907][472]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:934][474]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:953][475]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.34:979][476]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.34:997][477]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:026][478]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:047][478]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:074][480]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:094][481]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:118][482]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:136][482]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:164][484]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:183][485]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:209][486]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:230][486]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:234][487]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:252][487]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:280][489]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:299][490]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:326][491]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:345][492]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:370][493]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:388][494]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:414][495]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:433][496]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:459][497]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:478][498]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:502][499]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:525][499]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:549][501]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:567][501]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:594][503]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:616][504]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:641][505]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:660][506]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:688][507]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:707][507]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:735][509]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:776][511]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:779][511]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:819][512]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:824][513]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:842][513]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:870][515]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:910][517]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:913][517]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:932][518]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.35:959][519]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.35:977][519]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:009][521]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:035][521]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:071][523]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:089][523]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:115][525]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:135][525]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:163][527]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:183][528]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:208][529]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:229][529]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:252][531]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:271][532]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:296][533]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:315][533]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:340][535]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:359][535]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:363][536]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:382][537]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:399][537]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:418][538]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:421][539]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:436][539]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:459][541]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:475][542]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:498][543]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:516][543]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:538][545]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:554][545]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:576][547]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:592][547]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:613][549]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:630][550]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:655][551]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:670][551]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:692][553]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:708][554]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:731][555]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:745][555]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.36:769][557]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.36:808][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.24-17.24.36:808][557]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.04.24-17.24.36:809][557]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.24-17.24.36:810][557]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.04.24-17.24.36:815][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-17.24.36:825][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.24-17.24.36:834][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-17.24.36:872][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.24-17.24.36:872][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.04.24-17.24.36:872][557]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.04.24-17.24.36:875][557]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.04.24-17.24.36:879][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.24-17.24.36:896][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2026.04.24-17.24.36:953][557]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.37:085][558]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.04.24-17.24.43:594][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.24-17.24.44:204][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.24-17.24.44:271][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Jumpscare/BP_Zombie_Jumpscare] ([2] browsable assets)...
+[2026.04.24-17.24.44:306][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Jumpscare/BP_Zombie_Jumpscare.BP_Zombie_Jumpscare]
+[2026.04.24-17.24.44:306][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Jumpscare/BP_Zombie_Jumpscare]
+[2026.04.24-17.24.44:306][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Jumpscare/BP_Zombie_Jumpscare" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/Jumpscare/BP_Zombie_Jumpscare.uasset" SILENT=true
+[2026.04.24-17.24.44:321][ 14]LogSavePackage: Moving output files for package: /Game/AI/Jumpscare/BP_Zombie_Jumpscare
+[2026.04.24-17.24.44:322][ 14]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/BP_Zombie_Jumpscare9368493C4B4063476A1B11B5AF73013F.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/AI/Jumpscare/BP_Zombie_Jumpscare.uasset'
+[2026.04.24-17.24.44:335][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.247 ms (total: 6.50 sec)
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: Enabled validators:
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.24-17.24.44:384][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.24-17.24.44:384][ 14]AssetCheck: /Game/AI/Jumpscare/BP_Zombie_Jumpscare Validating asset
+[2026.04.24-17.24.46:396][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.24-17.24.46:420][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.24-17.24.46:420][120]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Forest
+[2026.04.24-17.24.46:481][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060743s)
+[2026.04.24-17.24.46:482][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Forest.Forest to /Game/Level/UEDPIE_0_Forest.Forest (0.060787s)
+[2026.04.24-17.24.46:519][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.04.24-17.24.46:524][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Forest
+[2026.04.24-17.24.46:526][120]LogPlayLevel: PIE: World Init took: (0.002302s)
+[2026.04.24-17.24.46:527][120]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.04.24-17.24.46:527][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.24-17.24.46:527][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.24-17.24.46:527][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.24-17.24.46:527][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.24-17.24.46:528][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.24-17.24.46:528][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.24-17.24.46:528][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.24-17.24.46:528][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.24-17.24.46:528][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.24-17.24.46:528][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.24-17.24.46:528][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.24-17.24.46:530][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.24-17.24.46:555][120]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.04.24-17.24.46:555][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.24-17.24.46:555][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.24-17.24.46:555][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.24-17.24.46:555][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.04.24-17.24.46:555][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.04.24-17.24.46:559][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.04.24-17.24.46:559][120]LogInit: FAudioDevice initialized with ID 36.
+[2026.04.24-17.24.46:559][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.04.24-17.24.46:559][120]LogAudio: Display: Audio Device (ID: 36) registered with world 'Forest'.
+[2026.04.24-17.24.46:559][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.24-17.24.46:563][120]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.24-17.24.46:597][120]LogWorld: Bringing World /Game/Level/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2026.04.24-18.24.46
+[2026.04.24-17.24.46:598][120]LogWorld: Bringing up level for play took: 0.034578
+[2026.04.24-17.24.46:601][120]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.04.24-17.24.46:610][120]PIE: Server logged in
+[2026.04.24-17.24.46:613][120]PIE: Play in editor total start time 0.203 seconds.
+[2026.04.24-17.24.46:665][120]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.24-17.24.48:013][180]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:045][182]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:071][183]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:084][184]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:841][223]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:856][223]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:881][225]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:895][226]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:919][227]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:934][227]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:958][229]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.48:972][229]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.48:995][231]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:010][232]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:034][233]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:048][233]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:072][235]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:087][235]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:109][237]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:126][238]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:149][239]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:164][239]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:188][241]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:203][242]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:227][243]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:240][243]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:263][245]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:278][245]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:302][247]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:336][248]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:340][249]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:354][249]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:380][251]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:394][251]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:415][253]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:434][253]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:458][255]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:472][255]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:494][257]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:510][258]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:534][259]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:549][260]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:573][261]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:587][261]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:612][263]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:628][263]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.49:669][266]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.49:683][266]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:265][297]LogBlueprintUserMessages: [BP_AI_C_1] Teleported
+[2026.04.24-17.24.50:265][297]LogBlueprintUserMessages: [BP_AI_C_0] Teleported
+[2026.04.24-17.24.50:265][297]LogBlueprintUserMessages: [BP_AI_C_2] Teleported
+[2026.04.24-17.24.50:265][297]LogBlueprintUserMessages: [BP_AI_C_3] Teleported
+[2026.04.24-17.24.50:266][297]LogBlueprintUserMessages: [BP_AI_C_4] Teleported
+[2026.04.24-17.24.50:266][297]LogBlueprintUserMessages: [BP_AI_C_5] Teleported
+[2026.04.24-17.24.50:266][297]LogBlueprintUserMessages: [BP_AI_C_6] Teleported
+[2026.04.24-17.24.50:266][297]LogBlueprintUserMessages: [BP_AI_C_7] Teleported
+[2026.04.24-17.24.50:322][299]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:359][300]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:432][303]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:452][304]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:476][305]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:495][305]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:522][307]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:540][307]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:567][309]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:587][309]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:613][311]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:657][312]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:660][313]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:680][314]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:708][315]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:729][316]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:756][317]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:776][317]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:801][319]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:823][319]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:847][321]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:866][321]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:893][323]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:912][323]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:938][325]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.50:978][326]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.50:984][327]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:003][328]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:027][329]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:048][330]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:072][331]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:093][332]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:118][333]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:136][334]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:164][335]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:183][335]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:212][337]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:230][338]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:234][338]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:255][338]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:282][340]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:302][341]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:332][342]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:350][343]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:375][344]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:394][345]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:421][346]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:439][347]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:464][348]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:483][349]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:511][350]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:531][350]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:558][352]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:578][352]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:603][354]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:622][355]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:648][356]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:670][356]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:694][358]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:713][359]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:739][360]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:758][360]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:786][362]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:806][363]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:833][364]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:852][365]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:879][366]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:898][367]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:923][368]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:945][368]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.51:972][370]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.51:990][371]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:015][372]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:039][372]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:107][376]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:130][377]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:836][408]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:855][408]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:883][410]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:901][411]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:927][412]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:945][412]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.52:974][414]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.52:994][414]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:020][416]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:039][416]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:064][418]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:085][419]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:111][420]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:129][421]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:156][422]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:174][422]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:201][424]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:221][425]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:245][426]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_ai_chase (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:269][427]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:288][427]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:292][428]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:307][428]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:326][430]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:333][430]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:348][430]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:369][432]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:386][432]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:409][434]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:426][434]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:448][436]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:482][438]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:486][438]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:521][439]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:525][440]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:539][440]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:562][442]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:579][442]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:602][444]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:617][444]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:639][446]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:674][448]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:678][448]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:693][449]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:719][450]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:732][450]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:756][452]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:771][452]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:797][454]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:812][454]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:836][456]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:851][457]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:872][458]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:888][458]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:912][460]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:946][461]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:949][462]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.53:966][462]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.53:992][464]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:006][464]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:028][466]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:045][467]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:068][468]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:085][468]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:108][470]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:121][470]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:143][472]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:159][472]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:182][474]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:198][474]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:221][476]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:236][477]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:260][478]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:275][478]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:297][480]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:314][481]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:336][482]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:352][482]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:376][484]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:390][484]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:412][486]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:428][486]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:450][488]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:466][489]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:488][490]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:503][490]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:526][492]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:543][493]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:566][494]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:582][494]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:604][496]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:619][496]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:641][498]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:658][499]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:682][500]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:701][500]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:722][502]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:737][503]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:760][504]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:775][505]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:799][506]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:815][506]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:842][508]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:856][508]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:878][510]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:894][511]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:918][512]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:933][512]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:957][514]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.54:974][515]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.54:996][516]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:011][517]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:036][518]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:050][518]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:073][520]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:106][521]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:111][522]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:147][523]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:151][524]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:164][525]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:188][526]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:204][526]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:227][528]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:244][529]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:266][530]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:284][530]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:306][532]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:321][532]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:344][534]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:361][535]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:462][540]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:496][542]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:499][542]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:516][542]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:540][544]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:574][546]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:578][546]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:612][547]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:616][548]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:652][549]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:657][550]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:670][550]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:694][552]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:709][553]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:732][554]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:748][555]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:774][556]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:789][556]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:813][558]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:827][559]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:854][560]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:870][561]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:893][562]LogVaRest: Request (json): POST http://homeassistant.local:8123/api/webhook/ue5_player_death (check bExtendedLog for additional data)
+[2026.04.24-17.24.55:910][562]LogVaRest: Response (200): 
+JSON(
+
+)JSON
+[2026.04.24-17.24.55:956][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.24-17.24.55:956][563]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Forest
+[2026.04.24-17.24.55:956][563]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.24-17.24.55:958][563]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2026.04.24-17.24.55:961][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-17.24.55:967][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.24-17.24.55:975][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-17.24.56:010][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.24-17.24.56:010][563]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.24-17.24.56:010][563]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.04.24-17.24.56:012][563]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.04.24-17.24.56:017][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.24-17.24.56:037][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2026.04.24-17.24.56:221][564]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.04.24-17.24.59:651][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.24-17.24.59:721][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Forest" FILE="../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.24-17.24.59:801][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.04.24-17.25.00:048][711]LogSavePackage: Moving output files for package: /Game/Level/Forest
+[2026.04.24-17.25.00:050][711]LogSavePackage: Moving '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Saved/Forest979D0E664373F9E1BC0213B2B7EBFC09.tmp' to '../../../../../../GitHub/FYP-Horror-Immersion/Horror_Game/Content/Level/Forest.umap'
+[2026.04.24-17.25.00:074][711]LogFileHelpers: Saving map 'Forest' took 0.352
+[2026.04.24-17.25.00:087][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 435.129 ms (total: 6.93 sec)
+[2026.04.24-17.25.00:153][711]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.24-17.25.00:153][711]LogContentValidation: Enabled validators:
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.24-17.25.00:153][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.24-17.25.00:153][711]AssetCheck: /Game/Level/Forest Validating asset
