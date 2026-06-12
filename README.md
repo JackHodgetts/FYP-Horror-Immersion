@@ -24,7 +24,7 @@ The project combines gameplay systems, environmental storytelling, immersive des
 
 ## Technologies Used
 
-* Unreal Engine 5
+* Unreal Engine 5 (Version 5.6)
 * Blueprint Visual Scripting
 * C++
 * Home Assistant
