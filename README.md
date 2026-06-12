@@ -1,4 +1,93 @@
-# FYP-Horror-Immersion
+# Horror Immersion Project
+
+A final-year Unreal Engine 5 project investigating how real-world environmental interactions and smart-home technologies can be used to enhance player immersion within a horror experience.
+
+## Overview
+
+The project explores how immersive technologies can influence player engagement and presence within a horror game. The primary focus is on integrating real-world environmental interactions through smart-home technology, allowing events occurring within the game to influence the player's physical environment.
+
+The project combines gameplay systems, environmental storytelling, immersive design principles, and research into player immersion to create a more engaging horror experience.
+
+## Screenshots
+
+### Main Environment
+
+<img width="1400" height="861" alt="image" src="https://github.com/user-attachments/assets/39d622c5-d490-46f1-81e0-8cf5d2530966" />
+
+### Gameplay
+
+<img width="1404" height="861" alt="image" src="https://github.com/user-attachments/assets/b736a562-6179-483c-a27e-76bd3bb16ec5" />
+
+### Smart Home Integration Demonstration
+
+<img width="388" height="424" alt="image" src="https://github.com/user-attachments/assets/51133bd8-fef8-4abb-87c6-d9c300b00104" />
+
+## Technologies Used
+
+* Unreal Engine 5
+* Blueprint Visual Scripting
+* C++
+* Home Assistant
+* Smart Home Devices
+* GitHub
+
+## Key Features
+
+* First-person horror gameplay experience.
+* Environmental storytelling and atmospheric level design.
+* Smart-home integration allowing in-game events to influence real-world devices.
+* Dynamic gameplay events designed to increase immersion.
+* Research-driven development based on immersion theory and player experience.
+* Interactive environmental systems and player interactions.
+
+## My Contribution
+
+This project was developed independently as part of my final-year dissertation.
+
+My responsibilities included:
+
+* Designing and implementing gameplay systems.
+* Developing environmental interaction mechanics.
+* Creating immersive horror gameplay scenarios.
+* Researching player immersion and presence.
+* Investigating and implementing smart-home integration concepts.
+* Level design and environmental construction.
+* Testing, debugging, and optimisation.
+
+## Challenges and Solutions
+
+### Integrating Real-World Technology with Gameplay
+
+One of the primary challenges was investigating how smart-home technology could be connected to gameplay systems in a meaningful way without negatively impacting the player experience.
+
+This required researching communication methods between Unreal Engine and external systems while ensuring interactions remained immersive rather than distracting.
+
+### Maintaining Horror Immersion
+
+Balancing gameplay mechanics with environmental storytelling was important to ensure that technological features supported the horror experience rather than becoming a novelty.
+
+Multiple iterations of gameplay events and environmental interactions were developed and tested to improve immersion.
+
+## What I Learned
+
+* Unreal Engine 5 development workflows.
+* Designing systems with immersion as a primary objective.
+* Research methods and dissertation-based development.
+* Gameplay system architecture.
+* Problem-solving across software and hardware systems.
+* Integrating external technologies with interactive applications.
+* Project planning and independent development.
+
+## Repository Information
+
+Project Type: Final Year University Project
+
+Status: Completed
+
+Year: 2025 – 2026
+
+Author: Jack Hodgetts
+
 
 ## **References:**
 
