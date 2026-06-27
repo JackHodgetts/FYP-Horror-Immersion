@@ -2,6 +2,10 @@
 
 A final-year Unreal Engine 5 project investigating how real-world environmental interactions and smart-home technologies can be used to enhance player immersion within a horror experience.
 
+## Disseration
+
+[Jack Hodgetts 25-26 Project Final Report (3).pdf](https://github.com/user-attachments/files/29421189/Jack.Hodgetts.25-26.Project.Final.Report.3.pdf)
+
 ## Overview
 
 The project explores how immersive technologies can influence player engagement and presence within a horror game. The primary focus is on integrating real-world environmental interactions through smart-home technology, allowing events occurring within the game to influence the player's physical environment.
