@@ -4,7 +4,7 @@ A final-year Unreal Engine 5 project investigating how real-world environmental 
 
 ## Disseration
 
-[Jack Hodgetts 25-26 Project Final Report (3).pdf](https://github.com/user-attachments/files/29421189/Jack.Hodgetts.25-26.Project.Final.Report.3.pdf)
+[Jack Hodgetts 25-26 Project Final Report.pdf](https://github.com/user-attachments/files/29421189/Jack.Hodgetts.25-26.Project.Final.Report.3.pdf)
 
 ## Overview
 
